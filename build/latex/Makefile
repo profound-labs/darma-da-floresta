@@ -33,5 +33,5 @@ cover-all:
 	make cover
 
 clean:
-	+rm -fv $(FILE).{dvi,ps,pdf,aux,log,bbl,blg}
+	-rm -fv $(FILE).{dvi,ps,pdf,toc,aux,log,bbl,blg}
 
