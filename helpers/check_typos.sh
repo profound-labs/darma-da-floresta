@@ -5,7 +5,7 @@
 grep -iE -f pali_typos ./*.tex
 
 # find - instead of -- in mid-sentence
-grep -E '[^[:alpha:]-]-[^[:alpha:]-]' ./*.tex
+grep -E '[^[:alpha:]0-9-]-[^[:alpha:]0-9-]' ./*.tex
 # %s/\([^[:alpha:]-]\)-\([^[:alpha:]-]\)/\1--\2/gc
 
 # find - as speech mark instead of --
@@ -43,4 +43,6 @@ grep -E '['"'"'"]{1,2}[,;:.?!]' ./*.tex
 
 # will not match a footnote w/ {} inside
 grep -E '\\footnote\{[^}]+\}[,;:.?!]' ./*.tex
+# TODO: use a multiline regex and match three nested manually
+#grep -E '\\footnote\{[^}]+\}[,;:.?!]' ./*.tex | grep -E '\\footnote\{[^}]+[{}[^}]+\}[^}]+[\},;:.?!]'
 
