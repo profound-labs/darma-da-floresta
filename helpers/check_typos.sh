@@ -24,6 +24,12 @@ grep -E "’’" ./*.tex
 # %s/ '\{1,2\}\(\w\)/ `\1/gc
 # sed -i 's/ '"'"'\(\w\)/ `\1/g' ./*.tex
 
+# find quote marks in front of puctuation, word".
+grep -E '\w["”'"'"'’][[:punct:]]' ./*.tex
+# Should you bother? Yes. To appriciate the uneven negative space,
+# look at it in large size. If you feel the large size is unbalanced,
+# the small size is unbalanced too.
+
 # find escaped spaces at beginning of lines (conversion artefact)
 grep -E '^\s\\ ' ./*.tex
 

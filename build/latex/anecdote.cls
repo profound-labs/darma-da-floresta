@@ -219,23 +219,24 @@
 % === hyperref ===
 
 \RequirePackage{hyperref}
-\hypersetup{
-  unicode=true,
-  colorlinks=false,
-  linkbordercolor=linkborder,
-}
+
+%\hypersetup{
+%  unicode=true,
+%  colorlinks=false,
+%  linkbordercolor=linkborder,
+%}
 
 % Use bordered links, as above. The colored borders will not print, but
 % makes linked words more apparent to people reading the PDF on desktop.
 
-%\hypersetup{
-%  colorlinks=true,
-%  linkcolor=textbody,
-%  citecolor=textbody,
-%  filecolor=textbody,
-%  urlcolor=textbody
-%  unicode=true,
-%}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=textbody,
+  citecolor=textbody,
+  filecolor=textbody,
+  urlcolor=textbody,
+  unicode=true,
+}
 
 \RequirePackage[
   open,

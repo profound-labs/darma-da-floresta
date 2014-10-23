@@ -2,5 +2,40 @@
 
 \newfontfamily\thaiFont{Kinnari}
 
-\newcommand*\thai[1]{\thaiFont #1}
+\newcommand*\thai[1]{{\thaiFont #1}}
+
+\renewenvironment{quotepage}[2]{%
+\def\quoteAuthor{#2}
+\thispagestyle{empty}
+\mbox{}\vfill
+
+\begingroup
+\centering
+\begin{minipage}{#1\linewidth}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+}{%
+\par\raisebox{0.5\baselineskip}{\color[gray]{0.4}\rule{\linewidth}{0.1pt}}
+
+{\raggedleft
+\raisebox{0.5\baselineskip}{\color[gray]{0.3}\scshape\large%
+\quoteAuthor}%
+\par}
+
+\end{minipage}
+
+\endgroup
+
+\vfill\mbox{}%
+}
+
+\newcommand*\quoteLastLine[1]{%
+\linebreak\mbox{}\par\vspace*{-\baselineskip}\vspace*{2pt}
+\resizebox{\linewidth}{!}{\scshape\color[gray]{0.2}#1}%
+}
+
+%\newcommand*\quoteLastLine[1]{%
+%\linebreak\vspace*{10pt}
+%\mbox{\resizebox{1.6\linewidth}{!}{\itshape\crimsonRomanFont\color[gray]{0.6}#1}}%
+%}
 
