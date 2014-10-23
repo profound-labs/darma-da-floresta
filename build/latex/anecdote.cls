@@ -69,6 +69,7 @@
 \RequirePackage{titletoc}
 \RequirePackage{enumitem}
 \RequirePackage{tikz}
+\usetikzlibrary{positioning}
 
 % === Define colors ===
 
@@ -92,52 +93,25 @@
 
 % Dummy font commands to use system defaults instead of custom fonts
 
-\newcommand\crimsonRomanFont{}
-\newcommand\crimsonRomanFontOldNum{}
-\newcommand\gentiumFont{}
-\newcommand\headerFont{}
-\newcommand\footFont{}
-\newcommand\pageNumFont{}
-\newcommand\partTitleFont{}
-\newcommand\chapterNameFont{}
-\newcommand\chapterTitleFont{}
-\newcommand\chapterNumberFont{}
-\newcommand\chapterAuthorFont{}
-\newcommand\chapterNoteFont{}
-\newcommand\sectionFont{}
+% TODO: comment these out and define them below as \newfontfamily
+
+%\newcommand\crimsonRomanFont{}
+%\newcommand\crimsonRomanFontOldNum{}
+%\newcommand\gentiumFont{}
+%\newcommand\headerFont{}
+%\newcommand\footFont{}
+%\newcommand\pageNumFont{}
+%\newcommand\partTitleFont{}
+%\newcommand\chapterNameFont{}
+%\newcommand\chapterTitleFont{}
+%\newcommand\chapterNumberFont{}
+%\newcommand\chapterAuthorFont{}
+%\newcommand\chapterNoteFont{}
+%\newcommand\sectionFont{}
 
 % If -- dashes don't work for your font, try
 % Renderer = Basic
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
-
-%% by filename:
-
-%\setmainfont[
-%  Path = {./fonts/},
-%  SmallCapsFont = Crimson-Roman.otf,
-%  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps },
-%  ItalicFont = GentiumPlus-I.ttf,
-%  BoldFont = GenBkBasB.ttf,
-%  BoldItalicFont = GenBkBasBI.ttf,
-%]{GentiumPlus-R.ttf}
-%
-%\newfontfamily\crimsonRomanFont[
-%  Path = {./fonts/},
-%  ItalicFont = Crimson-Italic.otf,
-%  BoldFont = Crimson-Semibold.otf,
-%  BoldItalicFont = Crimson-SemiboldItalic.otf,
-%]{Crimson-Roman.otf}
-%
-%\newfontfamily\crimsonRomanFontOldNum[
-%  Path = {./fonts/},
-%  Numbers = OldStyle,
-%]{Crimson-Roman.otf}
-%
-%\newfontfamily\gentiumFont[
-%  Path = {./fonts/},
-%]{GentiumPlus-R.ttf}
-
-%% or by name:
 
 \setmainfont[
   SmallCapsFont = Crimson Roman,
@@ -156,35 +130,26 @@
 
 % header and footer
 
-%% by filename:
-
-%\newfontfamily\footFont[
-%  Path = {./fonts/},
-%  %Renderer = Basic,
-%]{Crimson-Roman.otf}
-
-%% or by name:
-
-%\newfontfamily\footFont[Renderer = Basic]{Shaker Pali}
+\newfontfamily\footFont[Renderer = Basic]{Shaker Pali}
 
 \newcommand{\footSize}
   {\@setfontsize\footSize{9}{9}}
 
 % chapter
 
-%\newfontfamily\partTitleFont[
-%  ItalicFont = Shaker 2 Light Italic,
-%  %Renderer = Basic,
-%]{Crimson Roman}
-%
-%\newfontfamily\chapterNameFont{Crimson Roman}
-%\newfontfamily\chapterTitleFont{Crimson Roman}
-%\newfontfamily\chapterNumberFont{Crimson Roman}
-%\newfontfamily\chapterAuthorFont{Crimson Roman}
-%\newfontfamily\chapterNoteFont[
-%  BoldFont = Crimson Semibold,
-%  ItalicFont = Crimson Italic,
-%]{Crimson Roman}
+\newfontfamily\partTitleFont[
+  ItalicFont = Shaker 2 Light Italic,
+  %Renderer = Basic,
+]{Crimson Roman}
+
+\newfontfamily\chapterNameFont{Crimson Roman}
+\newfontfamily\chapterTitleFont{Crimson Roman}
+\newfontfamily\chapterNumberFont{Crimson Roman}
+\newfontfamily\chapterAuthorFont{Crimson Roman}
+\newfontfamily\chapterNoteFont[
+  BoldFont = Crimson Semibold,
+  ItalicFont = Crimson Italic,
+]{Crimson Roman}
 
 % Some default font sizes, use \renewcommand to adjust
 

@@ -10,11 +10,10 @@
 %% ===================
 
 \title{Darma da Floresta}
-\subtitle{}
+\subtitle{Ensinamentos de mestres da tradição da floresta do Budismo Theravada}
 \author{Various Authors}
 \date{2014-10-15}
-% TODO: translate
-\editionInfo{\textit{First edition}, 10,000 copies, 2015, Printed in Thailand}
+\editionInfo{\textit{Primeira edição}, Novembro de 2014}
 \ISBN{000-0-0000000-0-0}
 
 %% === Load further packages ===
@@ -27,28 +26,40 @@
 
 \frontmatter
 
+\input{../../manuscript/tex/titlepage.tex}
+
 \cleartorecto
 \tableofcontents*
 
-\input{../.././manuscript/tex/copyright.tex}
+%\input{../.././manuscript/tex/copyright.tex}
 
-% Nota – Ajahn Vajiro
+% Nota -- Ajahn Vajiro
 \input{../.././manuscript/tex/preface.tex}
 
 % Nota do tradutor
 \input{../.././manuscript/tex/translators-note.tex}
 
 \mainmatter
-\book{\thetitle}
+
+%\book{\thetitle}
+% === Book ===
+
+\cleartorecto
+\thispagestyle{empty}
+\vspace*{5em}
+
+{\centering
+\Large\chapterTitleFont\scshape\MakeLowercase{\thetitle}
+\par}
 
 \input{../.././manuscript/tex/ajahn-chah-quote.tex}
 
 % Conversa com um doutor
 \input{../.././manuscript/tex/conversa-com-um-doutor.tex}
 
-%% Budismo estilo Theravada
-%\input{../.././manuscript/tex/budismo-estilo-theravada.tex}
-%
+% Budismo estilo Theravada
+\input{../.././manuscript/tex/budismo-estilo-theravada.tex}
+
 %% Para quem conhece o Darma não há brigas
 %\input{../.././manuscript/tex/para-quem-conhece.tex}
 %

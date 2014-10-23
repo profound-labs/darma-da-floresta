@@ -4,38 +4,46 @@
 
 \newcommand*\thai[1]{{\thaiFont #1}}
 
+% Quote Box sizes
+\newlength\qbLeft
+\newlength\qbTop
+\newlength\qbWidthDiff
+\newlength\qbHeightDiff
+
 \renewenvironment{quotepage}[2]{%
 \def\quoteAuthor{#2}
+\cleartorecto
 \thispagestyle{empty}
-\mbox{}\vfill
+\mbox{}
 
-\begingroup
-\centering
-\begin{minipage}{#1\linewidth}
-\setlength{\parindent}{0pt}
+\begin{lrbox}{\quotepagebox}\begin{minipage}{#1}
 \setlength{\parskip}{0pt}
+\setlength{\parindent}{0pt}
 }{%
 \par\raisebox{0.5\baselineskip}{\color[gray]{0.4}\rule{\linewidth}{0.1pt}}
 
 {\raggedleft
-\raisebox{0.5\baselineskip}{\color[gray]{0.3}\scshape\large%
-\quoteAuthor}%
+\raisebox{0.5\baselineskip}{\color[gray]{0.25}\scshape\large%
+\MakeLowercase{\quoteAuthor}}%
 \par}
 
-\end{minipage}
-
-\endgroup
-
-\vfill\mbox{}%
+\end{minipage}\end{lrbox}%
+\setlength{\qbWidthDiff}{\paperwidth - \widthof{\usebox{\quotepagebox}}}%
+\setlength{\qbHeightDiff}{\paperheight - \totalheightof{\usebox{\quotepagebox}}}%
+% Golden Section, ratio 1.618
+\setlength{\qbTop}{0.382\qbHeightDiff}%
+\setlength{\qbLeft}{0.618\qbWidthDiff}%
+\begin{tikzpicture}[remember picture,overlay]
+\node [below right=\qbTop and \qbLeft of current page.north west, anchor=north west] {\usebox{\quotepagebox}};
+\end{tikzpicture}%
 }
 
 \newcommand*\quoteLastLine[1]{%
 \linebreak\mbox{}\par\vspace*{-\baselineskip}\vspace*{2pt}
-\resizebox{\linewidth}{!}{\scshape\color[gray]{0.2}#1}%
+\resizebox{\linewidth}{!}{\scshape\color[gray]{0.2}\MakeLowercase{#1}}%
 }
 
-%\newcommand*\quoteLastLine[1]{%
-%\linebreak\vspace*{10pt}
-%\mbox{\resizebox{1.6\linewidth}{!}{\itshape\crimsonRomanFont\color[gray]{0.6}#1}}%
-%}
+\newcommand\speaker[1]{%
+  \par\hangindent=1pc%
+  {\color[gray]{0.25}\scshape\MakeLowercase{#1}}\quad}
 
