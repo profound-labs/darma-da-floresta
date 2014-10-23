@@ -9,6 +9,8 @@
 \newlength\qbTop
 \newlength\qbWidthDiff
 \newlength\qbHeightDiff
+\definecolor{ribbon}{gray}{0.5}
+\definecolor{ribbonedge}{gray}{0.2}
 
 \renewenvironment{quotepage}[2]{%
 \def\quoteAuthor{#2}
@@ -34,7 +36,15 @@
 \setlength{\qbTop}{0.382\qbHeightDiff}%
 \setlength{\qbLeft}{0.618\qbWidthDiff}%
 \begin{tikzpicture}[remember picture,overlay]
-\node [below right=\qbTop and \qbLeft of current page.north west, anchor=north west] {\usebox{\quotepagebox}};
+  \node (ribbon) [
+    rectangle,
+    minimum height={\paperheight+6mm}, minimum width=5mm,
+    fill=ribbon,
+    above right=3mm and 15mm of current page.north west,
+    anchor=north west,
+  ] {};
+  \draw [ribbonedge, line width=1pt] (ribbon.north west) -- (ribbon.south west);
+  \node [below right=\qbTop and \qbLeft of current page.north west, anchor=north west] {\usebox{\quotepagebox}};
 \end{tikzpicture}%
 }
 

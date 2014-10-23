@@ -527,6 +527,7 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}%
 \itshape}
 {\hfill\normalsize\crimsonRomanFont\thecontentspage}
+[\addvspace{5pt}]
 
 \titlecontents{appendix}[\tocLeftWidth]
 {\normalsize\crimsonRomanFont}%
