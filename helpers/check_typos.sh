@@ -25,10 +25,13 @@ grep -E "’’" ./*.tex
 # sed -i 's/ '"'"'\(\w\)/ `\1/g' ./*.tex
 
 # find quote marks in front of puctuation, word".
-grep -E '\w["”'"'"'’][[:punct:]]' ./*.tex
-# Should you bother? Yes. To appriciate the uneven negative space,
-# look at it in large size. If you feel the large size is unbalanced,
-# the small size is unbalanced too.
+grep -E '[^[:punct:]]['"'"'’"”][[:punct:]]' ./*.tex
+# sed -i 's/\([^[:punct:]]\)\(['"'"'’"”]\+\)\([[:punct:]]\)/\1\3\2/g' ./*.tex
+#
+# Should you bother? Yes. It can put holes in the color of a text block.
+# To appriciate the uneven negative space, look at it in large size. If
+# you feel the large size is unbalanced, the small size is unbalanced
+# too.
 
 # find escaped spaces at beginning of lines (conversion artefact)
 grep -E '^\s\\ ' ./*.tex
@@ -42,10 +45,6 @@ grep -E ' [}]' ./*.tex
 # find weird spaces (coversion artefacts)
 # FIXME: this isn't the syntax
 #grep -E "[\x{200B}\x{000A}]" ./*.tex
-
-# find wrong quote and puncuation placement
-grep -E '['"'"'"]{1,2}[,;:.?!]' ./*.tex
-# sed -i 's/\(['"'"'"]\)\([,;:.?!]\)/\2\1/g' ./*.tex
 
 # will not match a footnote w/ {} inside
 grep -E '\\footnote\{[^}]+\}[,;:.?!]' ./*.tex
