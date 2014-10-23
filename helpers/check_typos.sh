@@ -3,6 +3,7 @@
 
 # find un-accented spelling of Pali
 grep -iE -f pali_typos ./*.tex
+# sed -i -f pali_safe_fixes ./*.tex
 
 # find - instead of -- in mid-sentence
 grep -E '[^[:alpha:]0-9-]-[^[:alpha:]0-9-]' ./*.tex
