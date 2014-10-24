@@ -3,3 +3,5 @@ TODO.md
 *.aux
 *.log
 *.toc
+build/latex/book_main.pdf
+publish/preview

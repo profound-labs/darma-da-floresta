@@ -2,23 +2,28 @@
 \cleartorecto
 \thispagestyle{empty}
 \vspace*{5em}
+\newlength\titleLength
+\newlength\xheight
 
 {\centering
 
-{\Large\chapterTitleFont\scshape\MakeLowercase{\thetitle}}
-\medskip
+\settowidth{\titleLength}{%
+  {\Large\chapterTitleFont\scshape\MakeLowercase{\thetitle}}%
+}
 
+{\Large\chapterTitleFont\scshape\MakeLowercase{\thetitle}}\\[0.3\baselineskip]
+\setlength{\xheight}{\heightof{X}}
+\raisebox{0.5\xheight}{\color[gray]{0.4}\rule{\titleLength}{0.1pt}}\\[0.3\baselineskip]
 {\itshape
-Ensinamentos de mestres da tradição
+Ensinamentos de mestres da tradição\\
 da floresta do Budismo Theravada}
 
-\bigskip
+\vfill
 
-Dhamma Desanās de
+Dhamma Desanās de Ajahn Chah, Ajahn Liem, Ajahn Sumedho, Ajahn Piak,
+Ajahn Anan, Ajahn Tan e Ajahn Jayasaro
 
-Ajahn Chah, Ajahn Liem, Ajahn Sumedho,\\
-Ajahn Piak, Ajahn Anan, Ajahn Tan e\\
-Ajahn Jayasaro
+\vspace*{5em}
 
 }
 
