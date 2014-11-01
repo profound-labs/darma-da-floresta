@@ -868,7 +868,7 @@ philo-sophical munindo amaravati thai-land}
   % but close enough for our purpose.
   \settypeblocksize{32\baselineskip + \topskip}{*}{0.577}% 1/1.732 (sqrt(3)), Hexagon
   \setlrmargins{*}{*}{1.125}% 1/0.889 major 2nd
-  \setulmargins{*}{*}{1.701}% Tall Pentagon
+  \setulmargins{*}{*}{1.701}% Tall Pentagon, 1.701
   \setlength{\footskip}{3\baselineskip}
 
 % ******************************************************
@@ -888,6 +888,25 @@ philo-sophical munindo amaravati thai-land}
 % Sidebarheight: 189.75801mm
 % Sidefoothsep and sidefootwidth: 2.46019mm and 39.01158mm
 % Sidefootvsep and sidefootheight: 4.77979mm and 189.75801mm
+% ******************************************************
+%
+% ******************************************************
+% Stock height and width: 650.43pt by 433.62pt
+% Top and edge trims: 0pt and 0pt
+% Page height and width: 650.43pt by 433.62pt
+% Text height and width: 523pt by 301pt
+% Spine and edge margins: 62.04224pt and 69.80893pt
+% Upper and lower margins: 47.16492pt and 80.26508pt
+% Headheight and headsep: 13.6pt and 19.8738pt
+% Footskip: 48pt
+% Columnsep and columnseprule: 10pt and 0pt
+% Marginparsep and marginparwidth: 7pt and 55.80893pt
+% Sidecapsep and sidecapwidth: 7pt and 111pt
+% Sidebarhsep and sidebarwidth: 7pt and 111pt
+% Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+% Sidebarheight: 539.9202pt
+% Sidefoothsep and sidefootwidth: 7pt and 111pt
+% Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 % ******************************************************
 
 }{
@@ -1109,9 +1128,11 @@ philo-sophical munindo amaravati thai-land}
 
 }}}}}
 
+% This will also typeout values in pt (default)
+\checkandfixthelayout
+% It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
-\checkandfixthelayout
 
 % alias the pagestyles into semantic names, "where it is used"
 
