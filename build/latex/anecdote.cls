@@ -245,6 +245,7 @@
 \hyphenpenalty=700
 \exhyphenpenalty=50
 \doublehyphendemerits=900
+%\finalhyphendemerits=5000 % default is 5000
 \brokenpenalty=990
 
 \RequirePackage[defaultlines=2,all]{nowidow}
