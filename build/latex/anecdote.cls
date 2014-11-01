@@ -867,10 +867,28 @@ philo-sophical munindo amaravati thai-land}
   % It won't be exactly 33 lines because of the parskip,
   % but close enough for our purpose.
   \settypeblocksize{32\baselineskip + \topskip}{*}{0.577}% 1/1.732 (sqrt(3)), Hexagon
-  \setlrmargins{*}{*}{1.125}% 1/0.889 major 2nd, 25.6mm | 22.77mm
-  \setulmargins{*}{*}{1.701}% Tall Pentagon, 17.9mm | 30.52mm
+  \setlrmargins{*}{*}{1.125}% 1/0.889 major 2nd
+  \setulmargins{*}{*}{1.701}% Tall Pentagon
   \setlength{\footskip}{3\baselineskip}
-  \checkandfixthelayout
+
+% ******************************************************
+% Stock height and width: 228.59732mm by 152.39821mm
+% Top and edge trims: 0mm and 0mm
+% Page height and width: 228.59732mm by 152.39821mm
+% Text height and width: 183.81133mm by 105.78816mm
+% Spine and edge margins: 21.80508mm and 24.53474mm
+% Upper and lower margins: 16.57637mm and 28.20961mm
+% Headheight and headsep: 4.77979mm and 6.98476mm
+% Footskip: 16.86987mm
+% Columnsep and columnseprule: 3.51456mm and 0mm
+% Marginparsep and marginparwidth: 2.46019mm and 19.61436mm
+% Sidecapsep and sidecapwidth: 2.46019mm and 39.01158mm
+% Sidebarhsep and sidebarwidth: 2.46019mm and 39.01158mm
+% Sidebarvsep and sidebartopsep: 4.77979mm and 0mm
+% Sidebarheight: 189.75801mm
+% Sidefoothsep and sidefootwidth: 2.46019mm and 39.01158mm
+% Sidefootvsep and sidefootheight: 4.77979mm and 189.75801mm
+% ******************************************************
 
 }{
 \ifthenelse{\equal{\BOOK@pagePreset}{smallpage}}{
@@ -919,7 +937,6 @@ philo-sophical munindo amaravati thai-land}
   \setlrmargins{*}{*}{0.63}% gives: 22.30mm | 14.04mm
   \setulmargins{*}{*}{1.701}% Tall Pentagon
   \setlength{\footskip}{3\baselineskip}
-  \checkandfixthelayout
 
 }{
 \ifthenelse{\equal{\BOOK@pagePreset}{opuslargepage}}{
@@ -983,7 +1000,6 @@ philo-sophical munindo amaravati thai-land}
   \setulmargins{*}{*}{1.778}% minor 7th 9:16, 20.23mm | 35.97mm
   \setheaderspaces{*}{4mm}{*}% ~ 1/Golden section, closer to text
   \setlength{\footskip}{3\baselineskip}
-  \checkandfixthelayout
 
 }{
 \ifthenelse{\equal{\BOOK@pagePreset}{opussmallpage}}{
@@ -1029,7 +1045,6 @@ philo-sophical munindo amaravati thai-land}
   \setlrmargins{*}{*}{0.889}% major 2nd 15:16
   \setulmargins{*}{*}{1.701}% Tall Pentagon
   \setlength{\footskip}{3\baselineskip}
-  \checkandfixthelayout
 
 }{
 \ifthenelse{\equal{\BOOK@pagePreset}{largevolume}}{
@@ -1087,13 +1102,16 @@ philo-sophical munindo amaravati thai-land}
   \setulmargins{26mm}{*}{*}
   \setheadfoot{15pt}{39pt}
   \setheaderspaces{*}{13mm}{*}
-  \checkandfixthelayout
 
 }{
 
   % other page sizes?
 
 }}}}}
+
+\settypeoutlayoutunit{mm}
+\typeoutlayout
+\checkandfixthelayout
 
 % alias the pagestyles into semantic names, "where it is used"
 
