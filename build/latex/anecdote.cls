@@ -115,7 +115,7 @@
 
 \setmainfont[
   SmallCapsFont = Crimson Roman,
-  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps },
+  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   BoldFont = Gentium Book Basic Bold,
 ]{Gentium}
 
@@ -180,6 +180,11 @@
 
 \newcommand{\smaller}
   {\@setfontsize\smaller{9}{11}}
+
+% === microtype ===
+
+\RequirePackage[final,babel=true]{microtype}
+\SetTracking[spacing={500,100,}]{encoding=*, family=chapterTitleFont}{40}
 
 % === hyperref ===
 
@@ -284,7 +289,7 @@ philo-sophical munindo amaravati thai-land}
 
 \sodef\soTocChapter{}{.1em}{.5em plus.1em}{.1em plus.1em minus.1em}
 \sodef\soSection{}{.07em}{.4em plus.1em}{.1em plus.1em minus.1em}
-\sodef\soChapter{}{.06em}{.4em plus.1em}{.1em plus.1em minus.1em}
+%\sodef\soChapter{}{.06em}{.4em plus.1em}{.1em plus.1em minus.1em}
 
 % === Custom commands and environments ===
 
@@ -332,7 +337,7 @@ philo-sophical munindo amaravati thai-land}
   itemindent=0pt,
   leftmargin=15pt,
   rightmargin=0pt,
-  itemsep=2pt,
+  itemsep=4pt,
   topsep=0pt,
   parsep=0pt,
   partopsep=0pt,
@@ -527,7 +532,7 @@ philo-sophical munindo amaravati thai-land}
 }
 {\contentsmargin{0pt}%
 \itshape}
-{\hfill\normalsize\crimsonRomanFont\thecontentspage}
+{\enspace\hfill\normalsize\crimsonRomanFont\thecontentspage}
 [\addvspace{5pt}]
 
 \titlecontents{appendix}[\tocLeftWidth]
@@ -696,7 +701,7 @@ philo-sophical munindo amaravati thai-land}
     \raggedright\hspace*{\chapterTitleLeftSkip}%
     \parbox{\linewidth - \chapterTitleLeftSkip}{%
       \raggedright\chaptitlefont\color{chaptertitle}%
-      \MakeUppercase{\soChapter{##1}}%
+      \textls*{\MakeUppercase{##1}}%
       \ifchapterfootnote%
         \hspace*{2pt}\theChapterFootnoteMark%
       \fi%
@@ -753,7 +758,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     \begin{adjustwidth}{\chapindent}{}
       \raggedright%
-      {\chaptitlefont\MakeUppercase{\soChapter{##1}}}%
+      {\chaptitlefont\textls{\MakeUppercase{##1}}}%
       \ifchapterfootnote%
         \hspace*{0.8mm}\theChapterFootnoteMark%
       \fi%
@@ -1142,8 +1147,6 @@ philo-sophical munindo amaravati thai-land}
 % === Packages to be loaded LAST ===
 
 \RequirePackage[perpage,multiple,stable]{footmisc}
-
-\RequirePackage[final,babel=true]{microtype}
 
 %% =================
 %% PDF/X-3:2002 info

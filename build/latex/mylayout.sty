@@ -36,14 +36,14 @@
 \setlength{\qbTop}{0.382\qbHeightDiff}%
 \setlength{\qbLeft}{0.618\qbWidthDiff}%
 \begin{tikzpicture}[remember picture,overlay]
-  \node (ribbon) [
-    rectangle,
-    minimum height={\paperheight+6mm}, minimum width=5mm,
-    fill=ribbon,
-    above right=3mm and 15mm of current page.north west,
-    anchor=north west,
-  ] {};
-  \draw [ribbonedge, line width=1pt] (ribbon.north west) -- (ribbon.south west);
+  %\node (ribbon) [
+  %  rectangle,
+  %  minimum height={\paperheight+6mm}, minimum width=5mm,
+  %  fill=ribbon,
+  %  above right=3mm and 15mm of current page.north west,
+  %  anchor=north west,
+  %] {};
+  %\draw [ribbonedge, line width=1pt] (ribbon.north west) -- (ribbon.south west);
   \node [below right=\qbTop and \qbLeft of current page.north west, anchor=north west] {\usebox{\quotepagebox}};
 \end{tikzpicture}%
 }
@@ -55,7 +55,16 @@
 
 \newcommand\speaker[1]{%
   \par\hangindent=1pc%
-  {\color[gray]{0.25}\scshape\MakeLowercase{#1}}\quad}
+  {\color[gray]{0.25}\crimsonRomanFont\scshape\MakeLowercase{#1}}\quad}
 
-\newcommand\itemlang[1]{\enskip\textit{#1}\enskip}
+\newcommand*{\labelFmt}[2]{\normalfont\textbf{#1}, \textit{#2}.}
+
+\newenvironment{glossarydescription}%
+               {\list{}{\labelwidth\z@ \itemindent-\leftmargin
+                        \let\makelabel\glossaryDescriptionlabel}}%
+               {\endlist}
+\newcommand*{\glossaryDescriptionlabel}[1]{%
+  \hspace\labelsep
+  \labelFmt #1%
+}
 
