@@ -1,5 +1,7 @@
 
-This work is licensed under a Creative Commons Attribution 3.0 Unported
+This work is licensed under a
+Attribution-NonCommercial-NoDerivs 2.0 UK: England & Wales
 License.
 
-http://creativecommons.org/licenses/by/3.0/deed.en_GB
+http://creativecommons.org/licenses/by-nc-nd/2.0/uk/
+

@@ -15,5 +15,5 @@ ISBN for paperback: `000-0-000000-00-0`
 
 ISBN for ebooks: `978-1-78432-028-7`
 
-Produced with LaTeX and [Prophecy](https://github.com/profound-labs/prophecy).
+Produced with [LaTeX](http://latex-project.org/) and [Prophecy](https://github.com/profound-labs/prophecy).
 
