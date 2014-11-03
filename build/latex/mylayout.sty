@@ -54,7 +54,8 @@
 }
 
 \newcommand\speaker[1]{%
-  \par\hangindent=1pc%
+  % The hangindent only works with alternating speakers.
+  %\par\hangindent=1pc%
   {\color[gray]{0.25}\crimsonRomanFont\scshape\MakeLowercase{#1}}\quad}
 
 \newcommand*{\labelFmt}[2]{\normalfont\textbf{#1}, \textit{#2}.}
