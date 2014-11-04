@@ -3,5 +3,7 @@ TODO.md
 *.aux
 *.log
 *.toc
+*.sla.autosave
 build/latex/book_main.pdf
+build/cover/cover.pdf
 publish/preview
