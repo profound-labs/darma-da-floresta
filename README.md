@@ -11,9 +11,11 @@ Ebook status: **N/A**
 
 First edition
 
-ISBN for paperback: `000-0-000000-00-0`
+ISBN for paperback: `978-1-78432-029-4`
 
 ISBN for ebooks: `978-1-78432-028-7`
+
+See the final files in the `publish/final/` folder.
 
 Produced with [LaTeX](http://latex-project.org/) and [Prophecy](https://github.com/profound-labs/prophecy).
 
