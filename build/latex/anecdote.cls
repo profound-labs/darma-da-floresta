@@ -73,7 +73,8 @@
 
 % === Define colors ===
 
-\definecolor{textbody}{gray}{0.15}
+% 90% for Thailand print, 85% was too light
+\definecolor{textbody}{gray}{0.1}
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{chapternum}{gray}{0.8}
 \definecolor{chaptertitle}{gray}{0.3}
