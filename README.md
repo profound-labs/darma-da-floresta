@@ -7,7 +7,7 @@ Darma da Floresta
 *Dhamma Desanās de Ajahn Chah, Ajahn Liem, Ajahn Sumedho, Ajahn Piak, Ajahn Anan, Ajahn Tan e Ajahn Jayasāro*
 
 Paperback status: **COMPLETED**  
-Ebook status: **N/A**
+Ebook status: **COMPLETED**
 
 First edition
 

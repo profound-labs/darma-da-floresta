@@ -4,54 +4,5 @@
 
 title: "Darma da Floresta"
 author: "Various Authors"
-date: 2014-10-15
-
-toc:
-  - { the_matter: frontmatter }
-  - { insert: '\frontmatter', target: latex }
-  - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
-  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
-  - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
-  - { insert: "\\cleartorecto\n\\tableofcontents", target: latex }
-  - copyright.tex
-  - preface.tex
-  - translators-note.tex
-  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
-  - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
-  - { the_matter: mainmatter, section_number: 1 }
-  - { insert: "\\mainmatter\n\\book{\\thetitle}", target: latex }
-  - ajahn-chah-quote.tex
-  - conversa-com-um-doutor.tex
-  - budismo-estilo-theravada.tex
-  - para-quem-conhece.tex
-  - duas-pontas-da-mesma-cobra.tex
-  - problemas-do-mundo.tex
-  - mudando-de-comportamento.tex
-  - pratica-correta.tex
-  - nascimento-e-renascimento.tex
-  - ajahn-liem-quote.tex
-  - gratidao-a-natureza.tex
-  - ajahn-sumedho-quote.tex
-  - os-cinco-obstaculos.tex
-  - ajahn-piak-quote.tex
-  - perguntas.tex
-  - ajahn-anan-quote.tex
-  - sati-samadhi-panna.tex
-  - ajahn-tan-quote.tex
-  - a-mente-controlada.tex
-  - ajahn-jayasaro-quote.tex
-  - conselho-para-estudantes.tex
-  - { the_matter: backmatter }
-  - { insert: '\backmatter', target: latex }
-  - glossary.tex
-
-cover_image: "cover.jpg"
-
-exclude_assets: [ "cover.xcf", ]
-
-isbn: "000-0-0000000-0-0"
-publisher: "The Publisher"
-publisher_atag: "<a href='http://thepublisher.org/' target='_blank'>www.thepublisher.org</a>"
-publisher_logo: "publisher-logo.jpg"
-book_atag: "<a href='http://thepublisher.org/thebookurl/' target='_blank'>www.thepublisher.org/thebookurl</a>"
+file_as: "Authors, Various"
 

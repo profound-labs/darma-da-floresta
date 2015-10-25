@@ -1,0 +1,635 @@
+Problemas do mundo
+==================
+
+*Ajahn Chah conversa com um grupo de discípulas leigas. (Devido a interrupções na gravação, algumas frases estão inacabadas e outras perderam um pouco seu contexto.)*
+
+– … e também pratique meditação, não precisa ser nada de mais, apenas
+não deixe a mente ficar confusa ou irritada, deixe ela se pacificar.
+
+– Onde devo me sentar para que haja paz?
+
+– Com um monte de impurezas mentais desse jeito, será que vai haver
+paz!? Fala sério!
+
+– Qual a forma mais fácil de pacificar a mente?
+
+– Não importa! Não precisa ser fácil, as causas têm que estar presentes
+para que seja fácil. Qual a forma mais fácil de encher a barriga? Se
+comer só uma colherada, vai ficar cheia? Falam desse jeito: “Quero
+conseguir rápido.” Eu me ordenei e quase morri pelo *Buddha Sāsanā* e
+ainda não alcancei paz e você quer sentar e num momento já alcançar
+paz!? Fala sério! As pessoas têm muito desejo, então sentam e só dá
+confusão.
+
+– Somos muito impacientes.
+
+– Senta e não tem paz, só tem confusão! O quê? Quem? Sim, viajei ao
+ocidente duas vezes, dois meses em cada ocasião. Fiquei muito tempo.
+
+– E teve quem oferecesse?
+
+– Oferecesse o quê?
+
+– Comida…
+
+– Ôôe, ofereceram! Se não oferecessem como ia ser? Onde eu ia comer?
+
+– Mostra que há interesse pelo budismo por lá…
+
+– Estão interessados, estão começando a se interessar. Estão começando
+agora. Os ocidentais vão ao templo e não conversam sobre outras coisas,
+vão para praticar meditação e pacificar a mente, então só há silêncio.
+Não são iguais aos tailandeses: quem vende cesto vai conversar sobre
+cesto, quem tem horta vai conversar sobre horta. Conversam sobre
+qualquer coisa, então não têm tempo de pacificar a mente e aí querem
+alcançar o mais rápido possível. Vão ao templo conversar sobre isso e
+aquilo, voltam para casa e dizem que foram ao templo. Na verdade não
+procuram o *Buddha Sāsanā* dentro da própria mente. Já os ocidentais vão
+ao templo e sentam na almofada em silêncio, ninguém fala. Pacificam a
+mente. Já nós aqui vamos conversar sobre isso, aquilo… arrastam o templo
+inteiro para dentro da conversa, depois vão comer.
+
+Muitas cerimônias… Os estrangeiros não estão interessados nisso, não
+estão interessados. No país deles não há esse tipo de interesse: estudar
+escrituras, ir comer, etc. Eles não estão interessados. Estão
+interessados em procurar paz, vão direto ali. Eles não vão ao templo
+dessa forma, são só os tailandeses é que vão. O filho ou a filha vai
+estudar no exterior e o pai e a mãe vêm visitar, então vão ao templo
+para comer, conversar, se divertir e voltam para casa. Não se vê quem vá
+para praticar meditação – eu observei. Não vi nenhum tailandês ir
+praticar meditação. Só vão conversar.
+
+– Vão passear.
+
+– Só isso, não dá em nada. Os estrangeiros não fazem assim, eles buscam
+o verdadeiro ensinamento do Buda. Os tailandeses têm o ensinamento do
+Buda mas não o conhecem, vão estudar outras coisas. Por lá tem que ir
+sentar em meditação, pacificar a mente. Teve uma pessoa chamada Sudama
+que foi para os Estados Unidos, ela mora na Rua Plêngsit.[^1] Quando fui
+lá ensinar meus discípulos, estava cheio de estrangeiros e essa Sudama,
+acho que era cristã, ficou curiosa em saber o que estávamos fazendo e
+então veio ver. Ela sabe falar tailandês. Fui ensinar meditação e um dia
+ela veio perguntar: “Luang Pó, em Bangkok tem esse tipo de atividade?”
+Veja isso, ela não sabe onde se pratica meditação, ela só veio a
+conhecer no exterior e não sabia se também havia na Tailândia. É uma
+pessoa pobre. Eu dei uma bronca nela… Tem que levar bronca primeiro para
+poder começar a praticar. Mostra que nunca foi a um templo, não conhece
+essa atividade. Naquela ocasião praticamos nove dias, faz a mente se
+pacificar e surgem diversos tipos de sabedoria. Chama-se Sudama, acho
+que já voltou para cá. Mora na Rua Plêngsit. Falou que quando voltasse
+viria me visitar no monastério, ainda não a vi aparecer.
+
+Várias pessoas daqui vão viver lá, vão estudar, e só fazem contato com o
+budismo no exterior. Só vão entender no exterior, quando moravam na
+Tailândia não entendiam nada. Os monges ficam ali, os leigos ficam aqui,
+e é assim, cada um na sua e não dá em nada. Algumas pessoas vão lá e se
+sentem solitárias, não têm ninguém, olham ao redor e os velhos são
+gringos, os jovens são gringos, as crianças são gringas, todo mundo é
+gringo, não tem tailandeses. Quando veem um tailandês, como eu, eles vêm
+me procurar. É como se viéssemos da mesma vila, todo mundo se conhece.
+Eles trazem os filhos para oferecer,[^2] oferecem para quem não tem
+filho! Eles vêm oferecer – várias pessoas! Eles chamam os amigos para
+vir junto. Não dá em nada. A maioria dos tailandeses são estudantes, só
+vão entender lá, só lá é que fazem contato com o budismo. Quando fui,
+vieram muitos desses aí. Me assustei: “Eh! De onde veio essa gente!?”
+Ensinei o método de praticar, os estrangeiros praticavam, mas os
+tailandeses não sabiam praticar. Eles sentam e é como se algo estivesse
+queimando, então pensei muito sobre isso e refleti sobre o *Buddha
+Sāsanā*.
+
+Vão procurar os monges, mas vão por outros motivos. Não deveria ser
+assim. Vão procurar amuletos de vários tipos, só confusão! Eu não quero
+ouvir essas coisas. Isso não é assunto de monge, não é assunto do
+*Buddha Sāsanā*. Todos só vão procurar isso. E então não conhecem o
+assunto real do *Buddha Sāsanā*; se tivéssemos o *Buddha Sāsanā* ia
+haver toda essa confusão? Eles pegam somente aquilo que é o oposto, só
+as coisas de que gostam. *Sīla* que é o verdadeiro aspecto do *Buddha
+Sāsanā* capaz de proteger as pessoas, eles não têm… não têm.
+
+– Ajahn, alguns têm medo que se a Tailândia não tiver mais confusão,
+respeitar o *Buddha Sāsanā* e todos praticarem o Darma, os países
+estrangeiros virão criar confusão aqui…
+
+– Incerto.
+
+– Eles querem roubar nosso país…
+
+– É incerto, isso são as outras pessoas vindo nos agredir, não dá para
+evitar, é assunto deles. Nós não temos como evitar, mas…
+
+– Se respeitarmos o *Buddha Sāsanā* isso deve nos proteger.
+
+– Protege a si mesmo, não protege aos outros.
+
+– Protege o nosso país?
+
+– Pode ser, mas não é garantido. Até o Buda eles queriam matar! Não é
+incrível? Um Buda nasce no mundo e eles queriam matar. É assim o mundo.
+Se nasceu no mundo, só vai encontrar perigos e desgraças. É um tipo de
+carma, não está além do sofrimento. Neste mundo há violência. Com o
+passar do tempo as pessoas que seguem uma religião vão mudando. Mas
+conseguir evitar todos os perigos é muito difícil neste mundo. Este
+mundo é um perigo.
+
+– Mas, por exemplo, queremos cuidar do nosso monastério, mas tem sempre
+alguém vindo roubar…
+
+– Vai fazer o quê? Proteja, se não conseguir proteger, entregue para
+eles! Não tem como carregar o monastério nas costas, no final a gente
+morre. Mundo, isso é coisa do mundo. O *Buddha Sāsanā* se estabelece
+neste mundo, mas não é capaz de proteger o mundo, isto está além do
+âmbito dele. Quando chega a hora, tem que ir de acordo com sua natureza.
+Não é possível proteger com garantia. O Buda ensinava que é
+impermanente, tudo isso é impermanente. Ainda estando vivos, procuramos
+felicidade e tranquilidade, procuramos proteger o país desses perigos
+todos. Se não tivermos *sīla*, surge ainda mais confusão. É assim.
+
+– Eu ouvi dizer que antigamente o *Buddha Sāsanā*prosperava em
+Pequim,[^3] deve ser verdade…
+
+– Isso eles dizem, mas é algo que dizem sem saber.
+
+– Hoje, na China, religiões são proibidas…
+
+– Às vezes foi porque acabou o combustível. Quando isso passar talvez as
+coisas melhorem. Na verdade as pessoas que hoje em dia são budistas
+ainda não alcançam o coração do ensinamento do Buda. Como os que dizem
+“Oh! Nada vai acontecer, nós temos o *Buddha Sāsanā*, nada vai acontecer
+conosco,” esse tipo de coisa. Eles entendem que o *Buddha Sāsanā* tem um
+poder mágico e é capaz de proteger o mundo inteiro. Não é possível se
+nós não praticarmos. O Buda ensinava a praticar desse jeito, se esforçar
+dessa forma. Não é para jogar a responsabilidade para que ele tome conta
+de todos nós. Fácil demais, não? É assim. Está com medo? Medo por quê?
+Se acontecer está bom, se não acontecer também está bom. Que diferença
+faz? Não se apegue demais.
+
+Algumas pessoas pensam errado, têm tanto medo dos comunistas que ficam
+loucos: “Vou lutar até morrer!”, só confusão. Todas as coisas têm seu
+lado bom, por exemplo, uma pessoa que não é budista, vamos ensinar o
+budismo e ele não enxerga porque não reflete sobre aquilo. Na verdade há
+algo de bom ali, mas ele não enxerga. Como as pessoas ruins que depredam
+o mundo, às vezes tem um lado bom ali mas ainda não enxergamos, temos a
+mente fixa em outro entendimento daquilo. Há vários tipos de coisas
+escondidas. Mas eu digo que bom é ficar quieto. Não pense muito.
+
+… não é possível vencer: quando chega a hora, se degenera. Por exemplo,
+nós nascemos, antes de nascer estávamos na barriga da mãe, não é? Quando
+saímos da barriga viramos crianças, garoto, garota, etc., até conseguir
+andar. No final o cabelo e os dentes caem, dá para evitar?
+
+– Não dá. Os olhos começam a ficar embaçados…
+
+– Dá para evitar?
+
+– Não dá.
+
+– E vocês gostam disso ou não?
+
+– Não gostamos.
+
+– Não gostam, mas não conseguem evitar. Pois é, que fazer? É algo
+natural, é melhor aceitarmos. Aceitem, aceitem essa situação, nós temos
+que envelhecer. Envelhecer é bom? É! Se não envelhecêssemos não
+cresceríamos a este tamanho. Íamos ficar igual a um feto que não nasceu,
+se não envelhecêssemos. Graças à força da velhice é que nos
+desenvolvemos até este ponto. Temos que saber a causa, velhice tem sua
+razão de ser. Se desenvolve e no final se degenera até desaparecer. Isso
+é a natureza, o mundo é assim. Isso podemos aceitar, é assim.
+
+… Se olharmos o que fizemos no passado, como é que é? O mundo é assim. O
+Buda e o Ānanda eram mendigos. Eles saíram em *piṇḍapāta*, o Ānanda e o
+Buda. Umas pessoas com *micchā-diṭṭhi*,[^4] não sabiam de nada, eles
+tinham a opinião de que esses monges não serviam para nada a não ser
+pedir esmolas. Não viam utilidade nenhuma neles. Pensavam assim e
+sentiam desdém. Às vezes o Buda ia em *piṇḍapāta* com o Ānanda e essa
+gente criticava, xingava. Às vezes ameaçavam caso eles não fossem
+embora. O Buda ficava com ainda mais sabedoria, o Ānanda ficava ainda
+mais tolo, ficava com raiva, com vergonha. O Buda via de acordo com o
+Darma, que as pessoas são assim mesmo. Duas pessoas: o discípulo pensa
+de um jeito, o professor pensa de outro. O discípulo ficava cada vez
+mais tolo, pois não aguentava ouvir aquilo. O Buda era como uma pipa
+soprada pelo vento, voava ainda mais alto. O Ānanda ficava tremendo como
+uma pipa que não aguenta a força do vento.
+
+O Buda ficava de pé bem em frente à casa dos *micchā-diṭṭhi*, com a
+tigela à mão, e as pessoas da casa xingavam “Que monge é esse? Não serve
+para nada! Eu não vou dar nada, vá embora!” O Ānanda ficava ainda mais
+confuso, com raiva e envergonhado, o Buda ficava com ainda mais
+sabedoria, ficava ainda mais tranquilo. Ele pensava: “Neste mundo as
+pessoas ignorantes são assim.” O Ānanda não sabia de nada e ficava ainda
+mais tolo, o Buda sabia das coisas e ficava ainda mais sábio.
+
+Quando o Buda disse para o Ānanda: “Vamos embora,” Ānanda avisou:
+
+“Eu não aguento essas ofensas.”
+
+O Buda respondeu: “Ānanda, para onde ir então?”
+
+“Vamos àquela outra casa mais à frente.”
+
+“Ānanda, se naquela casa eles também falarem desse jeito, para onde
+vamos?”
+
+“Vamos mais à frente. Vamos sair dessa vila e vamos para a outra.”
+
+“Se naquela vila eles falarem assim, para onde vamos?”
+
+“Vamos à outra vila ainda mais à frente.” O Buda perguntou:
+
+“Se na outra vila eles falarem assim, para onde vamos?”
+
+“Vamos para outro distrito.” O Buda respondeu:
+
+“Se no outro distrito eles falarem assim, para onde vamos?”
+
+“Vamos àquela outra cidade.”
+
+“Se naquela cidade falarem assim, para onde vamos?”
+
+“Vamos para a outra cidade ainda mais à frente.”
+
+“Quando não houver mais para onde ir, para onde vamos, Ānanda? Aqui eles
+falam, lá eles falam, onde vamos conseguir escapar disso? ‘*Natthi loke
+anindito*’, neste mundo não há quem não seja criticado.”
+
+Se nós caminharmos o mundo inteiro e eles nos criticarem, como é que vai
+ser? O mundo é assim mesmo. As pessoas que têm *micchā-diṭṭhi* falam de
+um jeito, os que têm *sammā-diṭṭhi* falam de um outro jeito, não tem
+para onde ir.
+
+“Ānanda, se vencermos aqui, mais à frente vamos vencer. Se perdermos
+nesta cidade, na cidade mais à frente vamos continuar perdendo. Que
+fazer?”
+
+O Ānanda não sabia responder. Isso também é assim, onde vai conseguir
+escapar? Não apenas indo em *piṇḍapāta*, pedir esmola, como dizem as
+pessoas. Mesmo um casal que se casa com sinceridade, se gostam, se amam,
+ou mesmo do pai e da mãe ainda temos que ouvir palavras desagradáveis.
+Fazer o quê? O mundo é assim. *Lokavidū* – se nós não conhecermos o
+mundo, nossa vida neste mundo será grosseira. Não vamos ter onde morar,
+aonde formos será assim. O problema do mundo é assim. Aonde quer que vá,
+não é possível evitar que digam que somos bons ou ruins. No mundo é
+assim, tem que ser assim. O Buda ensinou ao Ānanda “Nós temos que vencer
+bem aqui! Se vencermos aqui, mais à frente vamos vencer, onde quer que
+formos vamos vencer. Vamos vencer no mundo inteiro.” Isso é algo sobre o
+qual o Buda alertava seus discípulos: quando algo desagradável vem, algo
+agradável vem junto com aquilo.
+
+Nem precisa falar das outras pessoas, mesmo nós às vezes não gostamos do
+que nós mesmos pensamos. Às vezes pensamos assim, mas acontece daquele
+jeito; pensamos daquele jeito, mas acontece assim, aí não gostamos. Nem
+precisa falar dos outros, nós mesmos às vezes somos assim. Por isso
+precisamos nos esforçar para refletir e ver que o mundo é assim, não é
+possível fugir desse tipo de fala: o Buda tinha que ouvir essas coisas,
+os *sāvakas* tinham que ouvir essas coisas. Portanto temos que começar a
+entender que o mundo é assim, temos que aguentar. Aguentar. Aguentar
+todo tipo de coisa. Aos poucos ensine sua mente. Como se diz: cabeça
+fria. Cabeça fria… Vá fazendo e aos poucos se desapegando. Se
+entendermos essas coisas seremos capazes de vencer esses estados
+mentais.
+
+Nasce sabedoria pensando assim, fazendo assim. Só isso. Não dá para
+proibi-los: “Não me critique! Não me critique!”, não dá, o mundo é
+assim. Viver no mundo é assunto mundano. Se entendemos, podemos dizer
+que isso nos ensina a ser uma boa pessoa; se pensarmos bem, tudo isso
+nos ensina a refletir, só há Darma ali. Não pense: “Que ele não venha me
+criticar, cada um no seu canto!” Não pense dessa forma. Queremos que
+eles pensem de um jeito, mas as pessoas não pensam daquele jeito. E aí,
+como é que fica? Queremos que eles pensem assim e eles não pensam assim.
+Onde vai acabar isso? Não queremos que eles falem desse jeito e eles
+falam exatamente daquele jeito! Onde vai acabar isso? Aquela pessoa não
+para e nós não paramos, onde vai acabar isso? Não vai acabar. É assim. O
+correto é: se ele não parar, nós paramos. Não é? É assim que se resolve.
+Se ele não parar, nós paramos. Se nós paramos, ele não corre para lugar
+algum, ele estava correndo por uma razão. Quando paramos de correr atrás
+dele, ele também para, se volta e reflete sobre nós e sobre si mesmo. As
+pessoas que têm sabedoria pensam: “Ôôô, estou errado! Ele está
+tranquilo, ele consegue parar.” O problema acaba bem ali. Hoje em dia é
+a mesma coisa, o mundo é assim.
+
+Quem não conhece esse Darma sofre continuamente, não sabe que o mundo é
+assim. Portanto, nós que temos sabedoria temos que contemplar dessa
+forma, temos que fugir através da sabedoria. Onde as pessoas não nos
+critiquem, não existe. Elas nos criticam uma vez, é como se afiássemos
+nossa faca uma vez. Elas nos criticam com frequência, é como se
+afiássemos a faca com frequência, não é? Se afiamos a faca com
+frequência, está sempre afiada, não é? É assim. Todas as coisas que elas
+dizem serem boas, serem ruins, são ótimos ensinamentos, só que nós não
+usamos para refletir. Se nos agrada, gostamos; se não nos agrada, não
+gostamos, desse jeito. Desse jeito não dá, o mundo é assim. Por isso as
+pessoas sofrem o tempo todo – pois não pensam dessa forma. Vai
+aumentando, aumentando, e sofre com frequência – aí nasce sabedoria com
+frequência. Sofre com frequência, tem sabedoria com frequência, tem
+sabedoria com frequência e então surgem benefícios com frequência. Isso
+é resultado do nosso pensamento correto.
+
+… deve ser porque estamos indo para casa que esfria, se nós pensarmos
+que não vamos mais embora deve esquentar.
+
+– O senhor ainda não enterrou as *nimitas*?[^5]
+
+– Ainda não, ainda não está pronto, a estátua principal do Buda ainda
+não veio. Vem de Bangkok.
+
+– E essa que está ali?
+
+– Aquela é a secundária, a principal é do mesmo tipo, mas maior, mais
+alta, por volta de quatro metros. Hã? Ajahn Kitbóbut[^6] é o artesão. Se
+não estiver bonita ele não vai trazer. Nós não fizemos um contrato
+escrito, fizemos um acordo verbal para agosto e agosto já passou…
+Encomendamos essa estátua sem fazer contrato. Vários milhares de bahts e
+não há contrato. Ele não gosta de fazer contrato, mas se não houver
+contrato como é que vai ser? Por volta de 300.000 ou 400.000 bahts.
+Mandamos fazer a estátua e não há contrato, não há documento. As pessoas
+comuns não fazem isso, as pessoas hoje em dia não aceitam. Se fosse para
+fazer um contrato, Ajahn Kitbóbut disse: “Eu vou fazer essa estátua, mas
+eu não sou empregado. Eu não sou empregado, não quero pagamento, vou
+oferecer minhas habilidades ao monastério de forma satisfatória, assim é
+mais correto.”
+
+Sendo assim, como fazer? Eu falei “Vamos fazer assim:” – eu reuni a
+comunidade leiga – “esses 400.000 bahts para construir a estátua, se for
+para vocês conversarem com o artesão, a estátua não vai sair, pois um
+não confia no outro. Façamos dessa forma, se for para construir, vai ter
+que ser assim; acreditem em mim. Certo ou errado, dessa vez abram mão.
+Esses 400.000 bahts vocês deem para mim, não se envolvam. Se eu jogar no
+rio, vocês não digam nada, se eu usar para abrir uma loja, vocês não
+digam nada, já não é mais assunto de vocês, é assunto meu. Deem para mim
+e vocês abram mão do direito a dar opinião. Não fiquem pensando ‘Como é
+que vai ser?’ Não pensem, fiquem tranquilos. Eu me decidi a construir
+essa estátua, a ter uma estátua. Se conseguir, ótimo, se não conseguir,
+ótimo. Que ninguém fique chateado. Se for assim vamos conseguir fazer.
+Não é necessário fazer contrato, vamos tratar em termos de bondade,
+honra, mérito de ser gente. Se o Ajahn Kitbóbut não morrer, tiver senso
+de dever, tiver apreço pela honra dele, já está bom. Ele nasceu nesta
+vida, se quiser jogar isso fora, que jogue! Eu também jogo fora esses
+400.000 bahts, sem remorso. Nem quero saber para onde vai. Se não for
+assim, não vai ser possível construir essa estátua.”
+
+Feita a forma, veio folhear a ouro aqui em frente ao monastério, na
+rotatória. Encheu de gente, folheamos a ouro bem aqui, as pessoas ao
+redor. Terminado, botou a estátua no caminhão e foi embora. As pessoas
+disseram: “Eh… por que levou embora?” Eu disse: “Para onde for, não
+importa! Que leve embora! Deixe estar. Qual o problema? Se ele pode
+fazer assim, nós também podemos. Nós já abrimos mão, então deixem ir.”
+Aconteceu que ele disse que ia trazer de volta em agosto, agosto já
+passou e ainda não veio. Os leigos vieram me pressionar, eu falei:
+“Calma, calma, se sumir, que suma! Não tenham medo, nós já abrimos mão.”
+E aí fui ajustar a estátua, fui a primeira vez e achei que já estava
+bom, mas não gostei, ajustei de novo. Na segunda, achei que ia ficar
+bom, mas ainda não gostei e mandei fazer de novo. Ajustei três vezes. Um
+dia ele veio ouvir Darma e disse: “Não tenho coragem de prometer. Na
+verdade não falta muito. Eu vim dizer ao Luang Pó que eu vou terminar
+essa estátua antes do ano novo com certeza, mas já prometi várias vezes
+e então não tenho coragem de prometer de novo.”
+
+– Ele tem reputação, não?
+
+– Com uma reputação daquele tamanho, se ele quiser jogar fora o Wat Pah
+Pong, que jogue! Eu também jogo fora os 400.000 bahts. O Darma tem
+preço? O Darma não tem preço. Dizer que não tem preço não é o mesmo que
+dizer que não vale nada. O Darma não tem preço. É assim. Já as
+*nimitas*, colocamos no lugar e um rio de gente veio folhear ouro,[^7] e
+aí fechei, quando fui para o exterior eu fechei. Se forem fazer quando
+não estou, vira uma bagunça. Eles não podem mais folhear a ouro, mas não
+dão ouvidos, ainda vêm jogar coisas dentro.[^8] Antigamente vinha um rio
+de gente folhear ouro. Então eu fechei. Enquanto isso o Ajahn Kitbóbut
+continua trabalhando e eu vou esperar. Agora só falta ele trazer de
+volta. Trazer de volta e construir a base. Eu disse para juntar o preço
+da base com o preço da estátua, ele então disse que se juntar com o
+preço da estátua ele não faz. “Eu trabalho mas não sou empregado, se for
+para fazer como oferta, eu faço.” Bom, não? Falou assim, bom, não? Então
+está bom! Eu sei que ele vai fazer um bom trabalho.
+
+Não tem perigo. Se não fosse assim, eu não teria oferecido minha vida ao
+*Buddha Sāsanā*. Monge joga fora várias coisas, joga fora tudo. Coisas
+que no mundo as pessoas desejam, acham divertido, os monges jogam tudo
+fora. Não é? Se não jogar fora, não consegue virar monge. Como vai
+conseguir? Eu já joguei fora minha vida, por que não haveria de jogar
+fora 300.000 ou 400.000 bahts, algo que não faz parte do meu corpo? Se
+tiver que dar, dou, se fizer, fez – já conversamos. Se ele fizer algo
+errado, quem está errado é ele. Ele está errado, nós estamos certos. Se
+foi ele quem fez errado, para que vamos esquentar a cabeça? Temos que
+esquentar quando somos nós que fazemos errado. Se a outra pessoa foi
+quem fez errado, para que vamos esquentar? A gente costuma ser assim,
+mas na verdade deveria ser a pessoa que fez errado quem deveria
+esquentar. Ela faz errado e nós é que esquentamos, é muita burrice.
+Entende? Fique de olho. Quem é dono de casa, dona de casa, fique de
+olho: quando os outros fazem algo errado, somos nós que sofremos. Pense
+direito. Quando acontecer, vai lembrar: “É como o Luang Pó falou.” Não é
+melhor se a pessoa que fez errado sofra? Agora, ela fazer errado e nós
+sofrermos é o quê? É o cúmulo da burrice! É assim. Estudamos, mas
+passamos por cima disso; essas coisas, as pessoas não sabem. Ele fez
+errado, ele que sofra! Vamos sofrer ao invés dele para quê? Esse
+conhecimento é difícil encontrar onde estudar.
+
+Difícil estudar, mas na verdade é assim. Quem fizer errado que sofra,
+para que vamos sofrer? Nós já conversamos, ele disse que ia fazer, já
+combinamos. Se ele não fizer, é ele quem está errado, vamos sofrer para
+quê? Nós não temos culpa. Que seja! Aonde formos vai ser assim. Isso é o
+que se diz: “Em qualquer trabalho que fizer, não vença as outras pessoas
+– vença a si mesmo para vencer os outros.” Se vencer os outros não vence
+a si mesmo, não vence ninguém. Se vencer a si mesmo vai vencer os
+outros. Isso, os estudantes passam por cima. A maioria só quer vencer os
+outros e por isso sofrem. Não é? Se não vencer a si mesmo, quando estará
+bem? Vencer os outros é só sofrimento. Não serve para nada. Os
+estudantes passam por cima disso. Aprendem coisas muito elevadas, mas
+passam por cima disso. Não aprendem de forma balanceada, então passam
+por cima, não tocam no ponto certo. Não serve.
+
+Bondade é a mesma coisa: as pessoas só querem “bem, bem, bem,” mas
+também tem que haver equilíbrio. Se for bom demais, vira maldade, não é?
+Nós só queremos “bem, bem,” e vira maldade. Idade é a mesma coisa, quer
+viver muito tempo. Bom, não é? “Que tenha longa vida, que tenha longa
+vida…” Eu estou doente e as pessoas dizem:
+
+“Que o senhor viva até os 100, 200 anos!”
+
+“Hum!? Não venham amaldiçoar o monge! Vêm amaldiçoar o monge para quê?
+Já viu gente velha? Não podem andar, ficam deitados, não conseguem
+comer. Vocês gostariam de ser assim? Então para que vêm pedir que eu
+seja assim?”
+
+Vocês querem? Eu não vejo utilidade nenhuma, não tem utilidade. Só vêm
+amaldiçoar o monge. Se fosse para ter vida longa de forma agradável,
+então tudo bem, se puder andar, então tudo bem, mas com idade avançada
+não consegue sequer cuidar de si mesmo, como isso pode ser bom? É como
+as pessoas que amam o pai e a mãe, cuidam com todo amor, mas se eles
+estiverem doentes por muito tempo, cinco anos, seis anos – não morrem
+nem vivem de verdade e no final todo mundo vai embora. Às vezes até
+esquecem de dar comida… Até que ponto nossos filhos, genros e noras nos
+amam? Se passar da medida eles não conseguem amar. Eles jogam fora, não
+é? Eles pensam consigo mesmos: “Quando será que ele vai morrer? É muito
+difícil.” Eles pensam consigo mesmos, ficam reclamando como se fosse um
+mantra: “Disseram que ia morrer, já amanheceu e ainda está vivo. Que
+dificuldade!”
+
+Entendem? Que as coisas não aconteçam de acordo com os nossos desejos!
+Aceite o que vier, não deseje vida longa. Algumas pessoas querem
+vida-longa caso estejam felizes; caso estejam com raiva, querem morrer
+hoje mesmo, agora mesmo, aqui mesmo![^9] Quem vai conseguir agir de
+acordo com os desejos da mente? Se quiser viver muito, vai a vários
+templos estender sua vida, nove templos,[^10] vai se benzer para ter
+vida longa. Mas quando está com raiva: “Quero morrer agora, hoje! Amanhã
+não quero, tem que ser agora!” Às vezes bebe inseticida e morre, muitos
+se matam com um tiro. Dá para dizer que pensamos certo? Eu quero só o
+suficiente, esta vida em que nascemos não nos pertence, não nos
+pertence. É como se fôssemos comprar açúcar no mercado:
+
+“Quanto é um quilo?”
+
+“Um quilo, 20 bahts.”
+
+O vendedor vai colocar no saco e o cliente diz: “Não quero, deixa que eu
+coloco sozinho!”, bom, não? O vendedor só coloca no saco, ele não compra
+açúcar; se o comprador quer colocar sozinho, é assunto dele, a gente
+vende e fim de papo. Isso é pensar na medida certa. Experimente. Sempre
+que surge sofrimento é porque passou do limite. Às vezes é pouco demais,
+às vezes é muito; quando chega no ponto, é a medida certa, vem à tona a
+palavra “suficiente.” Não é?
+
+Por exemplo, estamos limpando uma cumbuca ou um prato, quando está limpo
+dizemos: “Já chega, é o suficiente.” Tranquilo, não? Se ainda estiver
+sujo, ainda não é o suficiente, ainda não acabou, aí continuamos
+limpando. É o que se chama “pessoa insuficiente.” Uma pessoa suficiente
+é tranquila: “OK, já chega,” fica tranquilo e não se preocupa. Isso é
+uma pessoa suficiente, na medida certa. Já pensou dessa forma alguma
+vez? A sabedoria dos monges da floresta vai por esse lado, ela não voa
+muito alto.
+
+Vocês funcionários públicos também, se é de baixo escalão não está
+satisfeito: “É muito difícil ter que depender dos outros,” reclama que é
+difícil. Então vai desejando, desejando, buscando o caminho e no final
+vira chefe, vira líder. Quando vira chefe pensa: “Agora está bom,” mas é
+bom só naquele pequeno instante, quando conquistou; logo fica com medo
+de cair, pois subiu alto demais, tem que ter cuidado. Ter que depender
+dos outros não é agradável; quando nós somos chefes, são eles que
+dependem de nós. Aí vêm os subalternos: “Conserte aquilo para mim.”
+Foram eles que fizeram errado e nós é que temos que consertar! O que
+fazer? Se não consertarmos, faz com que reclamem; às vezes causa muitos
+problemas, pois são nossos subalternos. Quando vira chefe as
+dificuldades de ser chefe surgem.
+
+É por isso que digo: pegue só o suficiente. Conseguiu algo, satisfaça-se
+com aquilo. Tranquilo. Dê comida todo dia; se não crescer, então que
+fique pequeno! Regue as flores todo dia; se morrerem, que morram!
+Coloque adubo todo dia, fazemos nosso esforço e isso é o suficiente, a
+planta que cresça sozinha. A gente pensa, mas não pensa direito. Ou o
+que é que vocês dizem? Pode falar, o que você diz? Daqui a pouco vocês
+já vão embora, se alguém quer dizer alguma coisa, fale.
+
+Vir ver os monges é bom, é auspicioso. Se temos um estado mental bom,
+não precisamos de um palácio, ao pé de uma árvore já estamos felizes.
+Mesmo sentados na grama estamos tranquilos. Se a mente está fervendo,
+pode deitar num colchão bem macio, mas sente queimar por dentro. Vira
+para um lado, vira para o outro, não acha conforto, a não ser que a
+mente esteja bem; caso contrário, não acha conforto. Confuso, não?
+Nascer como ser humano é confuso, não? Hein? Confuso, não? É assim o
+mundo. Aonde quer que vá é assim, há conforto só por um segundo. O mundo
+é assim. Eu estava conversando com uma discípula:
+
+“Trabalhar com os outros é difícil, mas se fico sozinha fico com medo de
+fantasma; se fico com os outros, acabo brigando.”
+
+“E onde você vai encontrar bem-estar?”
+
+“Se eu morar sozinha vou ficar bem.”
+
+Aí fica com medo de fantasma. Se tem várias pessoas – brigam. Como fazer
+para acertar? Se não pensarmos certo, não fica certo. Onde mora o
+bem-estar? Em estar correto. Isso é *Sacca-Dhamma*. Se algo sumir, que
+suma, se não puder recuperar, que suma! Vai chorar para quê? O que venha
+a acontecer conosco, se for para acontecer, que venha! Depois que surgir
+vai desaparecer, não force a permanecer! Esse negócio é assim. Temos que
+aceitar, aceitar o Darma do Buda. Aceitar todos os acontecimentos, não
+fuja dos acontecimentos! Quando algo acontecer, temos que conhecer
+aquele acontecimento, temos que aceitar. As pessoas não aceitam o Darma
+do Buda, se recusam a aceitar.
+
+Eu observo quando vou ensinar onde há um funeral, ensino sobre *anicca,
+dukkha, anata*, sobre a incerteza. Algumas pessoas ouvem, algumas ficam
+sonolentas, algumas dormem, não entendem o Darma. Mais um morre e choram
+de novo. Por que isso? É por não ouvir o Darma, não aceitar o Darma. Se
+aceitar o Darma, pensam: “Oh, morreu, isso é normal,” aceita o Darma. Se
+conhece, aceita. Se estiver doente, toma os remédios; se sarar, sarou,
+se morrer, morreu, se nascer, nasceu, é assim mesmo. Se aceitar os
+acontecimentos dessa forma, fica tranquilo. O problema é que não
+aceitamos o Darma, só ouvimos a nós mesmos.
+
+Ensino os monges que estão internados no hospital: se sarar, aceite, se
+não sarar, aceite. Tranquilo. Caso só aceite se sarar, se não sarar não
+aceita – sofre, sofre até chorar. Tem que haver resolução: se sarar,
+aceito; se não sarar, aceito. Mas no coração tomamos partido do sarar, o
+não-sarar não queremos, aí sofremos. Se sarar tem que aceitar, se não
+sarar tem que aceitar, tem que aceitar ambos por completo. Se sarar,
+sarou – se não sarar, não sarou. Tranquilo. Continuamos os mesmos, não
+perdemos nada. Se deixa influenciar por si mesmo e então não aceita o
+Darma do Buda. Eu já vi isso, um parente morre, vai embora, alguém que
+eles amam morre, vai embora, os monges ensinam dia após dia, mas quando
+alguém morre ainda choram daquele jeito. Choram, “que pena, que pena…”
+mesmo quando o monge está ensinando ainda choram na frente dele: “Que
+pena…” Por que não refletem: “Chorar para quê? Por que não ficar bem?” É
+que eles não aceitam, não praticam, não contemplam. Só pensam em querer
+que a pessoa permaneça, que ela não vá a lugar algum.
+
+A mãe de uma pessoa morreu, ela estava chorando quando veio ouvir o
+Darma e eu perguntei “Por que está chorando? A sua dívida já não é
+grande o suficiente? Ainda não está satisfeita? Ela cuidou de você desde
+que era criança, procurou dinheiro para construir casa para você com
+muita dificuldade. Ela morreu e você ainda chora? Que defeito você está
+achando no pai e na mãe? Ainda não é o suficiente? Ainda quer se
+aproveitar mais deles ou o quê? Ou quer que eles ainda venham ajudar a
+pagar as contas? Pense bem, por que está chorando?” Tem que pensar. Eu
+digo que já chega, se conseguir aceitar fica tranquilo. Se estiver de
+acordo com o Darma, fica tranquilo. Não tem mais problemas. Tem que se
+preparar desde antes, meditar…
+
+[^1]: Rua de um bairro nobre de Bangkok.
+
+[^2]: Tradição comum no interior da Tailândia. As pessoas pedem que o
+    Ajahn aceite ser padrinho do filho deles com a ideia de que assim o
+    mérito do Ajahn vai ajudar a proteger a criança. Isso é feito apenas
+    como cerimônia, o monge não assume de fato nenhuma responsabilidade
+    pela criança.
+
+[^3]: A pessoa refere-se ao fato de que no passado existia budismo na
+    China, mas depois o país se tornou comunista. Note que essa gravação
+    ocorreu na época da guerra do Vietnã e havia um perigo real de a
+    Tailândia também tornar-se um país comunista.
+
+[^4]: Visão Incorreta, mas nesse caso específico, significa pessoas que
+    não gostavam do Buda e do ensinamento dele.
+
+[^5]: Neste caso específico, nimitas significam pedras que demarcam os
+    limites do bôt (uma espécie de templo). É tradição que essas pedras
+    (em geral esféricas) sejam enterradas sob o solo.
+
+[^6]: A palavra ‘ajahn’ significa ‘professor’ mas também é utilizada na
+    Tailândia de forma parecida com ‘doutor’ no Brasil, ou seja,
+    qualquer pessoa que possua um certo status é chamado de ‘ajahn’ tal
+    como no Brasil qualquer pessoa que possua uma posição de certo
+    respeito é às vezes chamada de ‘doutor.’
+
+[^7]: No caso anterior, da estátua do Buda, significa de fato folhear a
+    ouro – o artesão usa ouro derretido para cobrir a imagem. Já no caso
+    nas nimitas citado aqui, significa que as pessoas vão trazer
+    pequenas folhas de papel metálico de cor dourada (só em casos muito
+    raros são de fato folhas de ouro) e, usando um pouco de cera de
+    abelha, colam esse metal à nimita (às vezes também às estátuas do
+    Buda). Algumas pessoas fazem isso como uma forma de reverência, mas
+    a maioria faz porque acha que como resultado desse ato elas vão
+    ficar ricas.
+
+[^8]: As nimitas são enterradas sob o solo, e o significado aqui é que
+    as nimitas já foram postas nos buracos, mas ainda não foram
+    enterradas, e as pessoas se aproveitam para jogar objetos dentro do
+    buraco como forma de reverência (na maioria dos casos jogam moedas
+    ou pequenas imagens do Buda).
+
+[^9]: Na Tailândia, uma forma bem-humorada de expressar raiva é dizer
+    “Quero morrer! Quero morrer!”
+
+[^10]: Algumas pessoas têm a superstição de que se fizerem uma certa
+    cerimônia, num certo dia, num número específico de templos, elas
+    conseguirão estender seu tempo de vida.
+

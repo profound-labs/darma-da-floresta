@@ -1,0 +1,435 @@
+Budismo estilo Theravada
+========================
+
+*Palestra dada por Ajahn Chah a praticantes leigos na Inglaterra.*
+
+Hoje vim aqui porque meus discípulos, como por exemplo o Sr. Suchin,
+convidaram para que viesse me encontrar com as pessoas daqui. Pode-se
+dizer que é muita sorte termos nos encontrado aqui. Alguns talvez não
+saibam o que é isso que está sentado bem em frente deles. Somos monges
+theravada que vêm da Tailândia, fizemos o esforço de vir até aqui hoje.
+Viemos nos encontrar aqui hoje para sabermos como é o Budismo Theravada.
+Na Tailândia há um local chamado Wat Nong Pah Pong onde há muitos
+ocidentais indo estudar a prática da meditação budista.
+
+O Budismo Theravada que trouxemos aqui é um ensinamento que é sempre
+atual, nunca envelheceu, nunca foi danificado e sempre acompanhou os
+tempos e as pessoas também. Sempre ensinou todos nós a termos harmonia e
+integração como se fôssemos um, com harmonia firme. Por exemplo, ensina
+a todos nós de uma mesma maneira: aquilo que é ruim, que perturba, não é
+pacífico, é confuso – somos ensinados a tentar abandonar todas essas
+coisas.
+
+Depois disso nos ensina a ter sabedoria, a conhecer o que é errado e
+causa perturbação para os indivíduos e para a sociedade como um todo
+também. Esses ensinamentos, reunidos, são os pilares do *Buddha Sāsanā*
+e se chamam *Sīla, Samādhi, Paññā*.
+
+Em seguida somos ensinados a pacificar nossa mente. Esta nossa mente
+aqui, mesmo tendo uma casa enorme para que viva bem, ainda não tem
+bem-estar, pois ainda está fervendo por causa da confusão, por causa do
+modo errado de enxergar as coisas. Estou falando sobre a mente de todos
+nós aqui.
+
+Agora vamos tentar concentrar nossas mentes, unificar a mente com um
+objeto, o que se chama *samādhi*. Portanto, prestem atenção no que vou
+dizer. Fazer nossa mente ter força é diferente de fazer nosso corpo ter
+força. Para que nosso corpo tenha força temos que correr, nos
+movimentar, de manhã e à noite. Essa movimentação faz nosso corpo ficar
+forte. Já a mente, devemos fazer que ela pare e permaneça quieta, fazer
+que se pacifique. Isso trará energia, a mente terá força, isso se chama
+*samādhi*. Fazer a mente entrar em *samādhi* não acontece
+instantaneamente, porque desde que nascemos nunca treinamos nossa mente
+a ficar quieta, nunca treinamos nossa mente a ficar em paz. Nunca
+fizemos, então não vai ser logo hoje que vamos conseguir pacificar nossa
+mente. Por isso temos que ter determinação em praticar, quer haja paz ou
+não. Algumas pessoas, que nunca praticaram, têm medo. Têm medo que fazer
+a mente se pacificar vá fazê-los ter problemas mentais. Têm medo de
+ficar loucos e todo tipo de coisa. Por que isso? Porque nunca
+praticaram, então ficam com medo. Não há nada disso.
+
+Sentem-se da forma que acharem melhor, mas sentem-se em paz. Tenham uma
+postura pacífica e confortável. Todos fechem os olhos e foquem a atenção
+na respiração, experimentem. Experimentem focar a atenção na respiração,
+façam agora. Façam. Quem quiser sentar na cadeira – sente. Quem quiser
+sentar no chão – sente. Pratique agora mesmo, quando inspirar ou expirar
+esteja ciente. Não force a respiração a ser mais rápida ou mais devagar.
+Não force a respiração a ser mais forte ou mais fraca. Deixe que ela
+seja natural e tenha apenas ciência da respiração entrando e saindo à
+vontade. Vocês veem a respiração? Estão cientes dela? Como ela é? Como é
+“aquele que está ciente?” Vocês enxergam nas suas mentes? Onde está
+“aquele que está ciente?” Onde está a respiração? Como é a respiração?
+Foquem dessa forma, estejam cientes. Usem a ciência dessa sensação para
+acompanhar a inspiração e a expiração, acompanhem a respiração entrando
+e saindo à vontade. O seu dever neste momento não é grande, basta estar
+ciente da respiração entrando e saindo. Não precisa pensar: “O que vai
+acontecer se eu focar a atenção na respiração? Vou saber alguma coisa?
+Vou ver alguma coisa?” Não é dever de vocês pensarem nisso. O dever de
+vocês é estarem cientes da respiração entrando e saindo e é só isso.
+
+Normalmente não fazem isso. Há muitos anos, muito tempo, que vêm
+negligenciando a respiração, não estão cientes de que o ar entra e sai.
+Hoje que possuem esta oportunidade, observem como ele entra, como ele
+sai, observem bem. A respiração possui muito valor, é a comida mais
+importante dentre todas. Se não comermos esse tipo de comida por duas
+horas é um problema sério; já comida como o arroz, mesmo se não comermos
+por um ou dois dias, ainda conseguimos sobreviver. A comida da
+respiração, se faltar por cinco ou dois minutos, não aguentamos.
+Portanto, a respiração tem valor. Hoje todos vocês observem em detalhe a
+respiração. Observem a respiração, não deixem a mente escapar para cima,
+para baixo, para a esquerda ou para a direita, nem para frente ou para
+trás. Que a mente esteja ciente somente da respiração na ponta do nariz,
+só isso. Não pense que ficará com problemas mentais, que ficará louco.
+Quanto melhor praticar, mais são vai ficar. Vai ficar são, vai se curar
+de seus problemas mentais. Não pense que será de outra forma. Pratiquem.
+
+*– intervalo para prática de meditação –*
+
+… Nós não nos conhecíamos previamente, acabamos de nos conhecer aqui
+hoje. Eu que estou ensinando, caso diga algo errado ou inapropriado, me
+perdoem, me desculpem. Todos nós, naquilo que ainda não conhecemos,
+somos ignorantes. Daquilo que ainda não estudamos, somos ignorantes.
+Entendam isso. A mente da maioria das pessoas não se aquieta. Por
+exemplo, hoje viemos nos sentar em paz desse jeito, as pessoas que se
+acham espertas devem perceber: “Puxa, não tem paz nenhuma, que barulho é
+esse vindo me perturbar? Barulho das crianças, barulho dos barcos, vindo
+perturbar, todo tipo de barulho… não há paz.” A pessoa acha que está
+pesando de forma correta por causa da sua esperteza, mas ela não enxerga
+a burrice naquilo. É o barulho que vem nos incomodar ou nós é que vamos
+incomodar o barulho? Isso nunca pensam. Na verdade somos nós que vamos
+perturbar o barulho, não é o barulho que vem nos perturbar. É assim ou
+não é? Nós vamos perturbá-lo ou ele vem nos perturbar? Olhem. Pois é,
+somos burros desse jeito. As pessoas espertas são burras desse jeito. E
+ainda assim não admitem. Não sabemos dessas coisas, pois só olhamos o
+lado de fora, não olhamos o lado de dentro. Pensamos que somos espertos
+mas, na verdade, nós é que vamos perturbar. Mas pensamos que é ele que
+vem nos incomodar. Isso é causa para que não tenhamos bem-estar, é causa
+para nossa mente não ter paz nem bem-estar, ficar confusa, pois não
+conhecemos a nós mesmos.
+
+Como o mundo hoje em dia, todos os países, eles são do jeito que são,
+eles não têm nada de mais. Somos nós que pensamos: “Esse é bom, aquele
+não é,” gostamos desse, não gostamos daquele e só encontramos confusão.
+Na verdade o mundo é do jeito que é. Não conhecemos sobre nós mesmos,
+pois somos burros. Vários dos meus discípulos vão estudar nas
+universidades do ocidente. Estou falando sobre meus discípulos: estudam
+e ficam ainda mais burros, sofrem ainda mais, brigam ainda mais, não se
+entendem. Disputam entre si, só brigam, não trabalham. Isso é porque não
+conhecem a si mesmos. Hoje eu vim falar sobre a ciência do Buda, hoje
+vamos estudar ciência do Buda. Hoje em dia tem muitas ciências, é de
+perder a conta as ciências que estudamos. Mas essas ciências não se
+complementam. Todas as ciências têm que incluir a ciência do Buda. Se
+não incluir a ciência do Buda, não serve. Ainda não se harmonizam, ainda
+disputam entre si, ainda têm inveja, ainda guardam rancor, ainda geram
+confusão o tempo todo.
+
+Hoje eu aproveitei essa ocasião para dizer isso, trouxe esse presente.
+Se você é assim, corrija a si mesmo! Na nossa mente há algo que não é
+bom? Aos poucos expulse para fora. Não acumule, aos poucos expulse para
+fora. Aquilo que não for bom, que oprima a si mesmo, oprima aos demais,
+aquilo na mente que não é bom, apenas expulse para fora, não deixe
+acumular até ficar pesado. Como ponto inicial da ciência do Buda, somos
+ensinados sobre *Sīla*.
+
+Número um: não oprimir aos demais seres, pequenos ou grandes, humanos ou
+animais. Isso é ciência do Buda para não sofrermos.
+
+O segundo aspecto é que não guerreemos pelas coisas, deixem estar. Não
+fiquem disputando os objetos, deixem estar. Isso é ciência do Buda.
+
+O terceiro, se formos leigos: é normal termos família, não traia sua
+família. Se trair sua família será mais um assunto para gerar
+sofrimento.
+
+O quarto é ser honesto: não minta, tenham sinceridade entre si, todos
+vocês. Esse é mais um ponto da ciência do Buda.
+
+O número cinco é não beber coisas que embriagam. Já estamos embriagados
+o suficiente na nossa mente com todo tipo de coisas. Se além disso for
+beber, ultrapassa o limite da embriaguez, não vai mais saber o que é o
+quê.
+
+Se unir tudo isso, chamamos de ciência do Buda. Essa ciência do Buda
+engloba todas as ciências. Faz as demais ciências não perderem o rumo,
+faz com que elas não gerem sofrimento. A ciência do Buda as engloba
+dessa forma. Assim, todas as pessoas viveriam em harmonia, sem inimizade
+e rancor pelos demais. Se aprendermos todas essas ciências e
+acrescentarmos a ciência do Buda, podemos dizer que somos budistas:
+chama-se *Buddha Sāsanā*. Onde estiver está bem, está em paz. Esse é o
+significado do que vim ensinar hoje.
+
+Vocês que estão sentados aqui, alguma vez sofreram? Sofreram no coração?
+Por que esse sofrimento? Qual é o problema? A mente pensa errado e então
+sofre. Se pensar correto vai sofrer? Isso é para vocês refletirem. A
+prática de *samādhi* que fizemos hoje é justamente para conhecer isso. É
+ensinar essa mente a conhecer o caminho correto, conhecer certo e
+errado. Mas hoje eu peguei leve, não havia tempo. Se fosse para sentar
+de verdade, da forma correta, teríamos que fazer de novo. Hoje eu não
+vim ensinar, só vim visitar. Vim visitar, dar um pouco de opinião. Por
+isso peço desculpas, mas se fosse para praticar *samādhi* de verdade eu
+não ia permitir sentar em cadeiras, tinha que sentar no chão desse
+jeito. Se for para treinar de verdade tem que ser assim, desse jeito aí
+é confortável demais, dá sono. A prática de *samādhi* de verdade é feita
+sentado no chão. Na próxima ocasião nós fazemos de novo, por hoje peço
+desculpas.
+
+Só tem casas grandes por aqui. Aonde quer que vá é tudo grande, mas não
+há muito bem-estar, não sei o que acontece. Vivem em casas enormes mas
+não têm bem-estar. Às vezes não conseguem dormir a noite inteira, por
+que será? Qual é a razão disso? Olhem, este local é ótimo, a natureza
+aqui é ótima, mas por que só a natureza aqui é boa e não a mente das
+pessoas? Por que razão? Por isso, temos que melhorar nossa mente. Mesmo
+num prédio como este, de vários andares, ainda não haverá bem-estar caso
+nossa mente não esteja bem. Mesmo se melhorar a natureza ainda mais, a
+mente não estará bem, pois não a melhoramos. Hoje eu vim encorajar vocês
+a melhorarem suas mentes. Isso é algo muito importante.
+
+Por aqui as casas e os alimentos para o corpo, eu digo, já são
+suficientes. Só tem gente gorda! Mas comida para a mente, eu digo, ainda
+não é suficiente. Algumas pessoas vão sentar à beira do mar, sentam e
+ficam olhando… Elas não estão bem, a atitude delas é de quem não está
+bem. Não sei o que se passa. Eu acho que talvez esteja faltando um tipo
+de comida. Às vezes vai perguntar: “Senhor, senhor…”, e nada. “Senhor!”,
+e eles enfim olham para cima. Eu sinto que estão famintos, muita falta
+de comida para a mente. Já viram isso? Olhem, olhem… Há uma causa? Será
+que há uma causa? Para ficar desse jeito tem uma causa, isso não vem do
+nada, há uma causa. Tem que remover essa causa. Se não remover a causa
+vai continuar incomodando, não vai haver bem-estar. Se deitar num
+colchão macio, não vai ser macio, se morar numa casa grande, não vai ser
+grande. A mente se sente apertada, no final pensa em morrer. Que peso
+ela está carregando dentro de si? Mesmo dormindo ainda carrega. Mesmo
+dormindo ainda carrega e não larga, às vezes chora a noite inteira. Não
+sabem o que carregam, vocês não sabem pois não praticam *samādhi*.
+Quando possível, investiguem até encontrar. Está faltando comida para
+mente, comida para o corpo já há o suficiente.
+
+Agora é um bom momento, vou pedir para que eles coloquem um filme para
+vocês verem. Esse filme foi feito em Wat Nong Pah Pong, na Tailândia. A
+BBC de Londres foi filmar. Eu vim visitar aqui em Londres e trouxe
+junto. Eles filmaram sobre como vivem os monges. Eles vivem na floresta
+– o que é que eles fazem lá? Eles comem, dormem e ficam à toa, ou o quê?
+Assim as pessoas podem conhecer a rotina dos monges. Eles fizeram esse
+filme para que possamos ver.
+
+*– intervalo para apresentação do filme –*
+
+… É um pouco difícil, é o que chamamos “sentar em meditação.” Não é o
+caso de que vamos sentar o tempo todo em meditação. Sentamos só o
+suficiente para que a mente tenha uma fundação, para que ela não tenha
+confusão. Depois tivemos oportunidade de sentar cerca de trinta ou vinte
+minutos, sentamos, treinamos, para a mente ter *samādhi*, ter frescor.
+Se temos habilidade em meditar, não é difícil, é só sentar por dois
+minutos e já estamos em paz. Mas nunca cuidamos da mente, há muito tempo
+que temos deixado ela vagar por todo lado, aí ela vai de acordo com o
+hábito dela, pois nunca foi treinada. Algumas pessoas nunca treinaram a
+mente, nunca praticaram, pensam que é trabalhoso, muito difícil. Como na
+sessão de hoje, algumas pessoas sofreram muito, trocavam de posição o
+tempo todo, isso é comum, é incômodo e desconfortável porque apenas
+começamos a treinar.
+
+Algumas pessoas se desanimam pois veem que é difícil e trabalhoso fazer.
+Aquilo que é difícil é bom fazer. Aquilo que é fácil não vale a pena.
+Para que limpar onde já está limpo? Já está limpo! Vá fazer limpeza onde
+está sujo, isso sim é útil. Por exemplo esta casa aqui, antes de virmos
+praticar meditação aqui, antes de ela ter sido construída, não era
+possível ficar aqui. Foi necessário trazer madeira, ferro, cimento.
+Havia uma enorme bagunça bem aqui, não era possível morar aqui. Por quê?
+Porque a construção ainda não estava concluída. Agora que já terminou, é
+confortável? Tem algo bagunçado? Isso é porque o cimento foi posto em
+seu lugar, o ferro foi posto em seu lugar, a madeira foi posta em seu
+lugar. Não há bagunça alguma. Então é confortável desse jeito. Mas antes
+era desconfortável este lugar aqui, é assim ou não é?
+
+Isso se compara dessa forma. Nós apenas começamos a praticar. Não só
+construindo uma casa, mesmo com o estudo, no começo tínhamos preguiça,
+não é? Não queríamos ir estudar, tínhamos preguiça, pois era difícil. A
+mãe e o pai tinham que obrigar a ir, não é? Então conseguimos estudar e
+obtivemos conhecimento e sabemos o valor do estudo. Nós temos que pensar
+desse jeito, temos que treinar nossa mente desse jeito, aconselhar nossa
+mente assim para que ela tenha força. Quando formos hábeis, não será
+mais necessário sentar usando esse método. Poderemos sentar à mesa, na
+cadeira do trabalho e estarmos cientes, termos *sati* acompanhando os
+estados mentais, e a mente conseguirá se pacificar. Pratique até a mente
+ficar esperta, até a mente ficar hábil, até a mente ser desse jeito. De
+pé tem essa sensação, deitado tem essa sensação, indo ou vindo tem que
+ser assim. Ela já alcançou a paz dela.
+
+Algumas pessoas pensam que vão ter que se esforçar desse jeito para
+sempre, que vai ser trabalhoso e difícil desse jeito para sempre, mas
+não é assim. Tendo terminado um trabalho, estamos tranquilos. Se ainda
+não terminamos, não estamos bem. Isso também é assim, não é diferente.
+Se fosse difícil sem parar desse jeito, eu também já tinha ido embora,
+também não ia querer. No começo era sofrido, difícil, trabalhoso, hoje
+não é difícil daquele jeito, já deu resultado. Quando é assim, é só
+querer e a mente já se pacifica. Onde sentar, fechar os olhos e focar a
+mente, ela se pacifica. Ela já foi treinada, é fácil. Quando a mente
+está confusa, sentamos tranquilos assim, e ela se concentra: “pup!”
+Acabam os problemas. É assim.
+
+Além disso, tendo pacificado a mente, há a contemplação de várias coisas
+que surgem e desaparecem. No que surge e desaparece não há nada de mais.
+A alegria surge e num instante desaparece, a tristeza surge e num
+instante desaparece, não há nada! Mas nós corremos atrás e aí sofremos,
+viramos escravos disso, só isso. Isso surge e desaparece, surge e
+desaparece. Quando conhecemos o Darma desse jeito, a mente se pacifica e
+junto vem a sabedoria. Não há problemas – ou tem, mas são poucos. Não é
+preciso resolvê-los, eles logo se resolvem sozinhos. Se nossa sabedoria
+ainda não surgiu, sofremos. Por que sofremos? Nós agimos certo ou
+errado? Estamos pensando certo ou errado neste momento? Então somos
+ensinados a não mirarmos no futuro, a largarmos o passado e praticarmos
+neste momento atual. A mente se pacifica. Ou vocês não concordam? Alguém
+tem alguma pergunta?
+
+– Como o Luang Pó pode não se incomodar em visitar o zoológico? Aqueles
+animais foram presos contra a vontade deles.
+
+– Eu não os prendi, quem prendeu é que é o culpado. Eu não tenho nada
+com isso. Uma vez fui até o Wat Prabat. Eles prendiam pássaros, vendiam
+e soltavam. No dia seguinte eles prendiam e vendiam de novo.[^1] Um dia
+eu estava indo visitar e vieram: “Luang Pó, compre um pássaro para
+soltar.” Estava numa gaiola. Eu olhei:
+
+“Quem prendeu esse pássaro?”
+
+“Eu prendi.”
+
+“Quem prendeu que solte! Vai trazer para eu soltar para quê? Você
+prendeu, você que solte! Eu não prendi, vou soltar para quê? Se eu
+soltar o seu pássaro você vai ficar com raiva.”
+
+Ele olhou para minha cara… “De onde saiu esse monge!?”
+
+Use equanimidade quando não puder ajudar. O pássaro estava preso, se eu
+soltasse eles me prendiam. Seria uma grande ofensa. O carma daqueles
+animais é aquele, fazer o quê? Eu vejo e fico em *upekkhā* – deixo a
+mente equânime, não encorajo, não faço contato, apenas olho. Penso: “O
+mundo é assim, se não prendessem, alguém ia querer ver? Então eles
+prendem, o mundo é assim.” Se formos soltá-los à força, vai ser bom? Vai
+virar um grande tumulto, não é? Se olhamos assim, nós largamos, ficamos
+equânimes, em *upekkhā*, não desperdiçamos a mente. Não é largar demais.
+Eu também sinto pena, mas deixo minha mente em equanimidade. Deixo parte
+do carma para a pessoa que prendeu e a outra parte para o pássaro que
+foi preso. Fico quieto. Nada de mais, o mundo é assim. Se sabemos desse
+jeito, não há nada de mais. Mais alguma coisa?
+
+– A dor, o sofrimento e a felicidade, são iguais em que sentido ou são
+similares de que forma?
+
+– São como as extremidades de um pedaço de pau. Elas são diferentes? Uma
+extremidade e a outra, há diferença? Felicidade ou sofrimento – não
+pegue, não se apegue a eles. Felicidade e sofrimento são como uma cobra,
+vemos e deixamos ela ir embora. Se formos pegar, ela nos pica, não é?
+“Minha felicidade” pica, “meu sofrimento” pica, como uma cobra.
+Felicidade é como uma cobra venenosa, sofrimento é como uma cobra
+venenosa. Se vemos que ela é venenosa, deixamos ela ir. Felicidade e
+sofrimento são iguais a uma cobra, se formos pegar: “Puxa, que
+felicidade!”, quando ela desaparece surge sofrimento, eles têm o mesmo
+valor. Tem que pensar de acordo com o Darma para entender. Mas as
+pessoas não gostam de sofrimento, só querem felicidade – não dá! Pegar a
+felicidade é o mesmo que pegar o sofrimento, pegar o sofrimento é o
+mesmo que pegar a felicidade. É assim. Mande mais perguntas! Tem mais
+alguma?
+
+– Pergunta sobre praticar no momento presente: Se ficarmos somente no
+momento presente, não pensarmos no que aprendemos e fizemos no passado e
+não fizermos planos para o futuro, como vamos progredir?
+
+– Ainda não entendemos o Darma. O presente é resultado do passado, não
+é? O presente é causa para o futuro, não é? Quando contemplamos o
+presente, é como contemplar o passado e o futuro. Não passa disso. O
+presente é resultado do passado. O presente é causa para o futuro que
+vem em seguida. Se contemplarmos o presente, é como se contemplássemos o
+passado e o futuro, não precisa ficar repetindo muito.
+
+(*Tradutor*) – Ele está dizendo: a prática dos monges pode estar de acordo com as
+tradições do oriente, da Tailândia, mas ele acha que esse tipo de
+prática não é completa porque os leigos fornecem todos os recursos, essa
+deve ser a opinião de várias pessoas no ocidente. Ele não disse
+abertamente, mas acho que é algo do tipo “vocês são egoístas.” E se é
+assim, como essa prática pode estar correta?
+
+– Se você não roubar e eles disserem que você roubou, é verdade? Pois é,
+não precisa complicar muito. Praticamos por bondade àqueles quem têm
+sofrimento, têm visão incorreta, ensinamos para que saibam o que é o
+quê, para que haja harmonia entre as pessoas. Ensinamos as pessoas a
+conhecerem o Darma para que haja harmonia, para que não se agridam. Mas
+se enxergarmos desse jeito, é como se fossemos egoístas, mas os monges
+não querem nada, comem só uma refeição por dia. Dão suporte aos monges
+para que eles ensinem as pessoas a conhecer *Sīla*, a não se agredirem.
+Se você quer pensar que é egoísmo fique à vontade. Mande mais uma, mande
+mais uma! Amanhã vou embora, quem quiser perguntar, pergunte!
+
+– Pergunta sobre o Nobre Óctuplo Caminho, *sammā-ājivā* (modo de vida
+correto). Ele é advogado e às vezes tem que brigar e discutir durante o
+trabalho. Como deveria praticar na vida dele para que esteja de acordo
+com o modo de vida correto?
+
+– É advogado? É honesto?
+
+– Ele tenta.
+
+– Não são só os advogados. Mesmo o rei, se não agir certo, está errado.
+Se agir errado não é certo, é errado. Não são só os advogados, mesmo o
+rei, se agir mal, não está certo, está errado. O Darma é assim. Resolva
+as questões para que fiquem corretas, não aja mal e isso é o suficiente.
+Fora disso, tem que procurar. Que método utilizar depende da nossa
+sabedoria. Nós temos que refletir sozinhos: onde trabalhamos, está certo
+ou errado? Temos que refletir sozinhos. Para ser advogado, aprender as
+leis, tem que gastar muito dinheiro. É melhor não agir mal, já investiu
+muito nisso, se agir mal, não vai ser bom. Se perguntar para os monges,
+eles têm que responder assim. O Darma é assim, e você então leve e vá
+praticar de acordo com a sua sabedoria.
+
+– E na hora de exercer sua função, o que poderia servir como ponto de
+referência? Como ele deveria olhar?
+
+– Olhe para sua própria mente, olhe se a mente está sendo honesta ou
+não. Detesta aquela pessoa, mas gosta dessa outra? Ajuda aquela pessoa,
+mas não ajuda esta aqui? Olhe para a própria mente, não olhe em outro
+lugar. Só há isso, só há a mente, faça a mente estar correta. Olhe para
+a própria mente. Visão correta (*sammādiṭṭhi*) nasce bem ali, bem ali na
+mente.
+
+– Os budistas acreditam em vida futura?
+
+– Hã? O que você disse?
+
+– Quando morrer nesta vida, vai haver uma nova vida em seguida?
+
+– À frente existe? Amanhã existe ou não? O futuro existe ou não? O
+passado existiu ou não? O presente existe ou não? Vá pensar sozinho. Se
+você perguntar: “Vida futura existe ou não?” e eu disser: “Existe!”, o
+que você vai fazer? Você vai acreditar ou não? Se você acreditar você é
+burro, porque estamos sentados aqui, eu digo: “Existe” e você
+simplesmente acredita sem razão alguma. Sabendo disso, essa não é uma
+resposta a ser dada. O que dá para responder é: “Amanhã existe, futuro
+existe, passado existiu, presente existe?”, é a mesma coisa. Sabendo
+disso, esse problema você tem que resolver sozinho. Se eu disser:
+“Existe vida futura” e você acreditar… você não tem sabedoria, pois eu
+estou apenas sentado aqui, digo: “Existe” e você logo acredita sem razão
+alguma. É assim, essa não é uma resposta que se deva dar, é uma questão
+que você deve procurar dentro de si mesmo. Tendo feito uma pergunta,
+você deve ir praticar. Não pergunte à toa. Você tem que usar isso como
+combustível para fazer surgir sabedoria, tem que contemplar como um
+aspecto da prática.
+
+Amanhã não haverá atividades. Todos vocês, hoje eu me despeço, amanhã eu
+já viajo de volta. Estou muito contente com todos, mesmo que vocês
+perguntem todo tipo de questões, estou contente, estou contente em dar
+opinião, contente em responder de forma direta. Dessa vez fica por isso
+mesmo, eu ensinei e praticamos.
+
+Vou falar honestamente, a pessoa que vá ensinar meditação, na verdade,
+deveria ser um monge. Esse ensinamento teve origem no Buda, uma pessoa
+pura. Falando de forma direta, é verdade, os leigos também conseguem,
+mas de forma indireta, não vão direto. Tenham cuidado, hoje em dia
+existem vários métodos de meditação, muitos métodos hoje em dia. Muitos
+professores ensinando meditação. Cuidado para não serem vítimas de um
+professor falso…
+
+[^1]: Algumas pessoas gostam de fazer mérito libertando um animal que
+    está preso ou que está para ser sacrificado, como consequência,
+    espertalhões se aproveitam e prendem animais para vendê-los em
+    frente a um templo onde as pessoas costumam fazer esse tipo de
+    coisa.
+

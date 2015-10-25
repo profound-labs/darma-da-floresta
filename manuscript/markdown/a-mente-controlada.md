@@ -1,0 +1,449 @@
+A mente controlada por ilusões
+==============================
+
+*Palestra e sessão de perguntas e respostas dada por Ajahn Tan durante um retiro de meditação.*
+
+A natureza da mente que ainda está envolta em delusão é de habitualmente
+se perder, se apegar às emoções e pensamentos de todos os tipos, como se
+fossem de fato nossa mente. A correnteza de emoções que vêm da nossa
+mente – ela se apega a essa correnteza como se fosse ela própria. As
+emoções são manifestações da mente. Se surge desejo, raiva ou deleite
+por diversas coisas, nossa mente se apega frequentemente a essas
+manifestações ou emoções como se fossem ela própria.
+
+A mente de todos nós deseja a verdadeira felicidade, não há quem deseje
+o sofrimento. Já observamos ou não? Por que dentro de nossas mentes há
+sofrimento e confusão? Uma vez que desejamos felicidade, por que às
+vezes surge sofrimento na nossa mente? Se tivermos um pouco de atenção,
+veremos o sofrimento surgindo na nossa mente vindo do desejo, da raiva,
+do deleite e da aversão. Por que não procuramos o caminho para cessar o
+sofrimento na nossa mente? Visto que temos inteligência,[^1] alguma vez
+já refletimos sobre porque é que é possível treinar um elefante, treinar
+um cavalo ou um cachorro, mas essa mente que nós pensamos ser nossa, por
+que não seria possível treinar para que ela melhore? Por que devemos
+desenvolver a prática de *samādhi*? Porque nossa mente, se não possuir
+*samādhi*, é como o mato e o vento que sopra das quatro direções. O
+vento são as emoções que surgem na nossa mente. Quando o vento vem de
+qualquer direção, o mato se inclina de acordo com o fluxo do vento:
+nossa mente se agita e flui de acordo com o fluxo das emoções.
+
+Faça sua mente firme como uma montanha que é muito resistente. As
+montanhas não se agitam com o vento; mesmo que seja um tufão soprando,
+não importa quão forte, ou um tornado, não são capazes de fazer uma
+montanha se agitar. A mente de um *anāgāmī* ou *arahant* também é assim,
+não se agita com o fluxo das emoções. Para fazer que a mente tenha
+*sati*, tenha *samādhi*, nós temos que treinar em focar a mente em
+*samādhi*, ou seja, focar *sati* em um objeto de meditação para que a
+nossa mente tenha paz. Focar *sati* de maneira contínua numa fundação
+faz surgir êxtase, felicidade; surge a equanimidade de *samādhi*. Se
+praticar bastante, a mente se unifica, é *ekaggatā arama, ekaggatā
+citta*, tem *sati* firme no momento presente. Focar *sati* em uma
+fundação de forma contínua faz surgir *samādhi*; quando *samādhi* surge,
+gera força para *sati*, se torna energia para *sati-paññā*[^2] na nossa
+mente.
+
+Nossa mente ou *sati*, que vem sendo agitada como o mato, se perde nas
+emoções, desejos, raivas, deleites e aversões. Quando começamos a ter
+*sati*, a capacidade de lembrar, essa capacidade de lembrar consegue
+acompanhar as emoções que surgem na mente. As emoções não surgem no céu
+ou na terra, elas surgem na mente das pessoas. Basta termos *sati*
+vigiando nossa mente e nós veremos as emoções, todas as diferentes
+manifestações da mente surgindo em nós mesmos. Se perdemos a atenção, se
+quebramos *sati*, nossa mente se perde no fluxo das emoções como desejo,
+raiva e sofrimento que surgem na mente. Quando perdemos a atenção ou
+quebramos *sati*, as impurezas – desejo, raiva, delusão – obcecam nossa
+mente. Tudo que nós pensarmos, falarmos ou fizermos estará sob o poder
+do desejo e da raiva.
+
+Para que *sati-paññā* surja é necessário desenvolver *samādhi pāramī*.
+Quando temos a força de *sati*, vemos as emoções e todo tipo de
+manifestações da mente. É como se nesse local houvesse uma cerca. Se
+formos para o andar de baixo ou para a cozinha, não veremos as pessoas
+que entram e saem pelo portão. Mas se nós colocarmos uma cadeira na
+porta de entrada e nos sentarmos ali, veremos todas as pessoas que
+entrarem e saírem. Portanto, se tivermos *sati*, focarmos *sati* na
+mente, vamos ver as emoções e todas as manifestações da mente.
+
+As emoções não nascem nos olhos, ouvidos, nariz, língua ou corpo; as
+emoções não nascem nas imagens, sons, odores, sabores ou tato; todas as
+emoções, quer seja desejo, aversão ou deleite de todos os tipos, nascem
+em nossas mentes. Os olhos são apenas a ponte de contato com as imagens.
+Quando os olhos veem uma imagem, surge uma sensação na mente: surge
+deleite, aversão ou indiferença. Os ouvidos são a ponte de contato com
+os sons; a sensação de deleite, aversão ou indiferença surge na mente
+apenas. O nariz contata cheiros, a língua contata sabores, o corpo com
+frio, calor, macio e duro, mas todas as sensações surgem na nossa mente.
+
+Portanto, se nós ficarmos atentos e tivermos *sati* cuidando da mente o
+tempo todo, vigiando a mente, veremos os objetos mentais e as
+manifestações da mente. Treinar e desenvolver *samādhi pāramī* é causa
+para que *sati* nasça e consiga acompanhar e conhecer os objetos mentais
+e as impurezas que surgem na mente. Quando estamos nas posturas comuns,
+quer seja de pé, andando, sentado ou realizando alguma atividade,
+tenhamos *sati* cuidando da mente, em todas as posturas. Realizando
+qualquer trabalho, tenha *sati* focada naquele trabalho. Caso esteja
+livre de trabalho, use *sati* para observar sua própria mente, faça sua
+mente ficar livre de objetos mentais. Caso haja emoções, pensamentos de
+diversos tipos surgindo na mente, teremos inteligência para refletir e
+ver a impermanência deles. Quando desejo, ódio, deleite e aversão
+surgirem, *sati-paññā* tem que enxergar a impermanência, largar os
+objetos mentais, e então a mente fica em equanimidade. Mas se
+*sati-paññā* não tiver força suficiente, então focamos *sati* no objeto
+de meditação por três ou cinco minutos e o pensamento ruim some da nossa
+mente.
+
+Focar *sati* na respiração, ou no mantra “*Buddho*”, é possível em
+qualquer postura, quer seja de pé, andando, sentado ou deitado – é
+possível focar *sati*, desenvolver *samādhi* da mesma forma. Mas quando
+desejamos desenvolver *sati* e *samādhi* de forma contínua, procuramos a
+oportunidade de praticar sentado ou andando em meditação. Por exemplo,
+todos nós tivemos a oportunidade de vir praticar neste local. Este local
+está afastado de imagens, sons, cheiros, sabores e toques – as emoções
+ou pensamentos na nossa mente diminuem. Se nos esforçarmos em usar
+*sati* para olhar a mente, veremos todas as formas de pensamentos
+surgindo na mente. Quando as distrações de fora diminuem, os pensamentos
+em geral vão para assuntos do passado ou do futuro.
+
+Se tivermos *sati* e virmos os pensamentos sobre o passado, usamos
+inteligência para refletir: “O passado já se foi, para que pensar
+nisso?” Traga *sati* de volta ao momento presente ou de volta à
+respiração. Se a mente estiver pensando no futuro: “Amanhã ou depois de
+amanhã, o que vou fazer?”, nós usamos inteligência para refletir: “O
+futuro ainda não chegou, para que me preocupar?” Traga *sati* de volta à
+respiração ou ao mantra “*Buddho, Buddho*” e a nossa mente se pacifica.
+Se a mente estiver pensando no futuro, use inteligência para refletir:
+“O futuro ainda não chegou, para que me preocupar?” e traga *sati* de
+volta ao momento presente.
+
+Experimentem usar uma técnica de meditação chamada *maranasati*. Por
+exemplo, hoje a noite dormiremos às onze ou à meia-noite. Use
+*maranasati* para imaginar que às onze ou à meia-noite morreremos. Às
+vezes essa técnica de *maranasati* é capaz de fazer nossa mente não ser
+capaz de pensar em nada que esteja além do horário das onze ou
+meia-noite, pois sabemos que às onze ou meia-noite vamos morrer, e a
+mente volta para o momento presente. Usar inteligência para contemplar a
+morte, não para criar medo, mas para despertar nossa mente para que não
+seja descuidada com a vida. Contemplar a morte para cortar a ganância, o
+ódio e a ignorância da nossa mente. Ou usem seus próprios métodos para
+trazer a mente de volta ao presente, de acordo com a habilidade de cada
+um.
+
+Portanto, quando estamos num lugar como este, devemos treinar em focar
+*sati* e desenvolver *samādhi* continuamente: desde o momento em que
+acordar e abrir os olhos, estabeleça *sati* em sua mente. Quer esteja
+fazendo um trabalho sozinho ou em grupo, tenha *sati* naquela atividade.
+Quando tiver tempo livre, procure uma oportunidade para praticar sentado
+em meditação. Quando cansar, mude de postura e vá praticar meditação
+andando.
+
+A primeira vez, na época em que eu era leigo, em que vi a mente e os
+objetos mentais, eu tinha um pouco mais de vinte anos. Antes eu tinha o
+entendimento incorreto de que os pensamentos e emoções que surgem na
+mente são a própria mente. Mas foi na ocasião em que surgiu confusão na
+minha mente, após ter voltado da faculdade por volta das sete horas da
+noite. Estava voltando para casa por volta das nove ou dez horas e a
+mente não parava de pensar. Pensava em todo tipo de coisas, mas por
+sorte tive *sati* e consegui me perguntar: “Eh? Esta é a minha mente,
+por que não consigo controlá-la?” Eu tive *sati* para ver os objetos
+mentais surgindo na mente e tomei a decisão de achar um caminho para
+conseguir controlar minha própria mente. Eu não queria pensar de forma
+confusa ou naquilo que é danoso.
+
+Na minha casa havia um altar.[^3] Fui até lá e me sentei em meditação.
+Foi a primeira vez que pratiquei meditação. É possível que tenha sido
+por ter visto meu pai. No *uposatha*, ou quando tinha tempo livre, ele
+ia até o altar vestindo uma roupa branca[^4] e praticava meditação.
+Quando minha mente estava pensando sem parar, decidi procurar um caminho
+para parar as emoções e pensamentos na mente até encontrar. Então sentei
+em meditação e foquei *sati* na ponta do nariz: quando inspirava e o ar
+tocava a ponta do nariz, eu pensava “Bud;” quando expirava, o ar tocava
+a ponta do nariz e eu pensava “dho.”
+
+Deve ter sido sorte minha que, quando foquei *sati* na respiração, minha
+mente parou de pensar em todas aquelas histórias. Tinha *sati* no
+momento presente, tinha *sati* na respiração, tinha *sati* na meditação
+sobre a respiração de forma ininterrupta. A mente aos poucos se
+pacificou, o corpo ficou leve, a mente ficou leve, surgiu êxtase. Eu
+percebi que a mente não estava mais confusa, não estava mais pensando de
+forma confusa, o corpo estava leve, a mente estava leve, surgiu
+felicidade e frescor na mente. Eu não sentei em meditação por muito
+tempo, talvez uns dez ou quinze minutos, mas a mente estava em paz o
+tempo todo. Quando mudei de postura e saí da meditação, tinha *sati*
+firme no momento presente, a mente estava unificada.
+
+Eu vi o resultado de praticar meditação. Quando saí da postura de
+meditação sentada, *sati* era capaz de controlar a mente. Quando fazia
+meus deveres em casa, por volta das dez ou onze da noite, minha mente
+estava unificada. Então eu descobri que essa prática de *samādhi* é
+causa para que haja *sati*, e quando há *sati* somos capazes de
+controlar nossa mente. Desde então, qualquer dia em que sentisse que a
+minha mente estava pensando de forma confusa, eu procurava uma
+oportunidade para sentar em meditação. Mas eu era uma pessoa acostumada
+ao conforto, não gostava de dificuldades, então só praticava meditação
+nos dias em que a mente estava confusa. Mas eu tinha essa sorte: todas
+as vezes que sentava em meditação, minha mente se pacificava.
+
+Não sentava por muito tempo: no começo eram apenas dez ou quinze
+minutos. Então fiquei sabendo que, para ter *sati* controlando a mente,
+é necessário praticar *samādhi*. Depois disso eu passei a procurar
+controlar a mente para pensar coisas boas, falar coisas boas e fazer
+apenas coisas boas o tempo todo. Quando estava em qualquer posição, de
+pé, andando, sentado ou fazendo o que quer que fosse, caso houvesse um
+pensamento ruim, *sati* via aquele pensamento e eu usava inteligência
+para achar alguma forma de expulsá-lo o mais rápido possível. Se
+inteligência não encontrasse uma forma para abandonar aquilo, eu
+simplesmente trazia *sati* de volta à respiração e o pensamento
+desaparecia. Na época em que eu era leigo, usava esse método para cuidar
+da minha mente e minha mente tinha paz e frescor o tempo todo.
+
+Eu observava os cinco preceitos de forma regular e tinha intenção de só
+construir bondade no meu coração. Me lembro de que quando tinha
+dezessete ou dezoito anos tive uma emoção no coração que dizia:
+“Qualquer forma de bondade que exista neste mundo – aspiro a todas elas.
+Eu desejo construir apenas coisas boas.” Numa outra época da minha
+juventude, quando eu tinha dezenove ou vinte anos, se fosse a um templo,
+qualquer que fosse, eu procurava um altar que fosse tranquilo. Eu me
+lembro que quando ia ao altar, onde era silencioso, me prostrava três
+vezes e o que eu pensava ou determinava não era como as demais pessoas
+faziam, na minha mente surgia a frase: “O caminho mais excelente – eu
+desejo encontrar esse caminho.” Era assim todas as vezes que me
+prostrava, nunca pensei de nenhuma outra forma. Isso eu só contei para
+que sirva de reflexão, para despertar o coração.
+
+Por isso, uma vez que todos nós tivemos a resolução de vir praticar,
+observar *sīla* e desenvolver *samādhi*, usem *sati* para cuidar de sua
+mente de forma equilibrada, não tensionem demais para que não surja
+estresse, nem afrouxem demais para que não percam *sati*. A prática não
+é feita para gerar sofrimento, mas sim para que a mente se desprenda do
+sofrimento, dos apegos ao que quer que seja. Hoje eu já ofereci
+pensamentos o suficiente, peço para parar por aqui. Em seguida há um
+pouco de tempo, quem tiver algum problema relacionado à prática pode
+perguntar.
+
+– Eu sou novo em meditação e o que eu gostaria de saber é: como lidar
+com a dormência nas pernas e nas costas durante a meditação?
+
+– Se a mente ainda não se pacificou e sente dor surgindo, se não
+consegue aguentar, mude de posição. Mas se focou *sati* e desenvolveu
+*samādhi*, se a mente se pacificou primeiro e em seguida surgiu a dor,
+por exemplo dor na perna, existindo um pouco de *sati* e *samādhi*,
+*sati* vai focar naquela dor. Use inteligência para contemplar o corpo
+nesse corpo até enxergar como elemento terra, água, ar e fogo. Separe a
+mente e o corpo. Contemplar o corpo como elementos não é nada difícil.
+Use inteligência para refletir que se nós inspirarmos e não expirarmos,
+ou expirarmos e não inspirarmos, nosso coração vai parar de funcionar.
+Quando o elemento ar cessa, o elemento fogo cessa em seguida: vai surgir
+frio no nosso corpo e em três ou cinco dias o elemento água, o sangue, o
+pus – nosso corpo não conseguirá retê-los, eles vazarão e se espalharão
+pelo chão. A parte do elemento terra, que é a parte dura, o cabelo, os
+pelos, as unhas, os dentes, a pele, os ossos, vai se desmanchar e se
+espalhar pelo chão.
+
+Procure separar a mente do corpo utilizando *sati-paññā*; contemple o
+corpo sendo quatro elementos – terra, água, ar e fogo. Quando nossa
+mente vir que o corpo é uma coisa e que a mente é outra, nossa mente se
+separará do corpo. Quando a mente se separar do corpo, use *sati-paññā*
+para contemplar e buscar a verdade sobre a dor. A dor que surge com este
+corpo é realmente nossa mente ou não? Dor é um fenômeno que surge do
+corpo apenas e é da natureza de surgir e desaparecer. Procurem usar
+*sati-paññā* para contemplar o corpo no corpo e separar a mente do
+corpo. Usem *sati-paññā*para contemplar as sensações nas sensações e
+separar a mente do corpo, separar a mente das sensações. A mente é uma
+coisa, o corpo é outra, as sensações são outra. Esses três não estão
+relacionados. Mas para que *sati-paññā* tenha força para contemplar o
+corpo no corpo, as sensações nas sensações, tem que haver *samādhi*
+unido à *sati-paññā*. Se *samādhi* ainda não surgiu, se nós não
+aguentarmos a dor, às vezes temos que mudar de posição.
+
+Na verdade, se nossa mente sair deste corpo, quer dizer, se nós
+morrermos, estes elementos, este corpo, não sentem nada, nem calor nem
+frio. Levam para cremar ou enterrar sob a terra e ele não sente nada. As
+sensações estão somente na nossa mente, que se apega a este corpo como
+se fosse “eu.” Deu para entender? Alguém tem mais alguma pergunta?
+
+– Sim, eu tenho uma pergunta. Tahn Ajahn, você mencionou que quando
+tinha vinte anos você descobriu que conseguia encontrar paz na sua mente
+através de *sati*, porque você disse estava tendo muitos pensamentos em
+sua cabeça, então percebeu, por ter *sati*. Então você foi a um quarto e
+então descobriu, ou soube, que conseguia ter uma mente calma, uma mente
+muito pacífica. De fato, para mim, isso já é superar o sofrimento. E
+então você disse que, sempre que tinha esse problema, você fazia isso,
+você fazia essa meditação. Nos é dito que o budismo serve para superar o
+sofrimento. Tahn Ajahn já encontrou, mas ainda assim, apesar disso, ele
+foi adiante e tornou-se um monge. A razão pela qual tornou-se monge é
+porque está obtendo mais felicidade do que a que ele havia descoberto? E
+nesse caso, ele poderia nos dizer onde ele encontrou mais para superar
+esse sofrimento? *Sādhu*.
+
+– Naquela ocasião eu sabia o método para parar o sofrimento vindo das
+impurezas mais grosseiras apenas, o que era feito de forma temporária.
+Mas, na verdade, na época em que eu era leigo, na minha vida eu queria:
+número um, estudar e atingir a graduação mais elevada. Número dois,
+encerrados os estudos, ter o melhor emprego; e número três, eu pensava
+em ter família. Tinha esses três. Na minha vida laica, naquela época, eu
+não tinha visto muito sofrimento, pois eu vivia como os jovens em geral,
+tinha muitas diversões e distrações.
+
+Mas o sofrimento que eu vi de verdade… Eu ainda não tinha tido nenhum
+sofrimento, mas eu vi na mente. Uma vez, eu tinha dezenove ou vinte
+anos, estava indo de ônibus para a faculdade. Eu tinha onde sentar no
+ônibus, mas uma moça com um bebê de colo entrou e eu cedi meu lugar.
+Aquele bebê ainda não tinha um ano de idade, pois a mãe o carregava no
+colo. Eu me levantei e me segurei na barra de ferro perto de onde ela
+estava sentada, e meu olhar caiu sobre a criança. Foi só meu olhar cair
+sobre a criança e a minha mente começou a pensar, a pensar em algo que
+nunca havia pensado antes, foi a primeira vez. Eu pensei: “Essa criança,
+até que ela consiga falar, andar e cuidar de si mesma, até ela ficar do
+meu tamanho, vai ter que passar por muita felicidade e sofrimento.”
+Minha inteligência pensou só isso e surgiu desencanto na mente. Eu
+terminei de contemplar sobre a criança, então olhei para a frente. Eu vi
+uma pessoa que me pareceu não estar se sentido bem, estava indo ao
+hospital, pois esse ônibus passava em frente ao hospital. Algo que eu
+nunca havia pensado veio à mente: “Dentre todas as pessoas, não há quem
+consiga escapar das doenças, mesmo eu um dia ficarei doente como ele.” E
+eu senti desânimo e desencanto na mente. Então meu olhar saiu daquela
+pessoa e foi encontrar uma pessoa idosa, por volta de sessenta ou
+setenta anos. Pensei pela primeira vez naquilo que nunca havia pensado:
+“Dentre todas as pessoas, não há quem consiga escapar da velhice: cedo
+ou tarde eu também serei daquele jeito.” E de novo surgiu desencanto na
+minha mente e em seguida eu pensei: “Todas essas pessoas nesse ônibus,
+essas trinta ou quarenta pessoas aqui, para onde estão indo?” e surgiu
+uma sensação na minha mente que respondeu: “Todas as pessoas nesse
+ônibus estão indo em direção à morte.” E surgiu muito desencanto na
+minha mente. Eu vi crianças, doentes, idosos no ônibus quase todos os
+dias, por volta de vinte ou trinta dias, e minha mente pensava assim
+todos os dias. E no último dia eu disse para mim mesmo que quando fosse
+possível me ordenaria monge. Se não fosse possível, então faria o máximo
+para ser uma boa pessoa. Talvez eu não seja bom na opinião dos outros,
+mas que na minha mente eu seja uma boa pessoa.
+
+Esse foi o sentimento que surgiu na minha mente. Mas eu era uma pessoa
+acostumada ao prazer e ao conforto e meu coração naquela época ainda não
+estava pronto. Eu tinha planos como as pessoas comuns, me decidi a
+estudar até a graduação máxima e ainda não tinha alcançado aquela meta.
+Número dois, quando acabasse os estudos, queria trabalhar. Número três,
+queria ter família. Mas eu disse para meu coração que, caso não
+estivesse pronto, eu então seria a melhor pessoa possível e tentaria
+observar os preceitos, sempre. Mas se eu estivesse pronto, me ordenaria.
+E não me ordenaria temporariamente ou de brincadeira. Se me ordenasse
+seria uma única vez e para o resto da vida.
+
+Foi assim, na verdade eu não tinha visto sofrimento ao redor, mas vi na
+minha mente daquele jeito. Eu ainda não tinha me encontrado com a
+velhice, com a doença, com a morte, mas pensei: “Não importa quantas
+vidas eu nasça. Tendo nascido não serei capaz de evitar a velhice, a
+doença e a morte.” E surgiu desânimo, desencanto. Deu para entender?
+
+– Sim, eu acho que entendemos porque Tahn Ajahn decidiu tornar-se monge.
+Eu acho que a maioria dos praticantes, incluindo a mim, ainda estamos
+esperando para ver os três sinais[^5] em um ônibus, e se não os virmos,
+vamos tentar ser o melhor possível. *Sādhu, sādhu!*
+
+– Bom. Determinem um objetivo e criem as condições. Gostamos de ter
+objetivos na vida, então criem as condições para alcançarem aqueles
+objetivos.
+
+– Tahn Ajahn, saudações. Eu tenho uma pergunta que diz respeito à morte,
+porque não há muito escrito dentro do Budismo Theravada sobre a morte.
+Então eu gostaria de saber: em geral, como uma pessoa deve se preparar
+para a morte? Quando estamos próximo ao momento, o que devemos fazer?
+
+– Quando estiver perto da morte tenha *sati* focada no momento presente.
+Ainda estando vivo, foque *sati* e desenvolva *samādhi* para que a mente
+se pacifique. Quando a mente estiver pacificada e ainda estivermos
+respirando, traga à frente o corpo como objeto de meditação dos
+elementos terra, água, ar e fogo, para que a mente contemple e se
+desapegue do corpo. Se a mente enxergar que este corpo não é a mente e
+que a mente não é o corpo, nossa mente não vai ter medo de morrer. Nossa
+mente não vai tremer diante de qualquer perigo de morte pois vai saber,
+de forma natural, que é normal que este corpo surja e se degenere, ele
+não é a mente. Tendo contemplado, deixe a mente descansar em *samādhi*.
+
+Aí vai surgir uma imagem do nosso carma, o carma que fizemos desde que
+nascemos até o momento da nossa morte. Se o carma bom tiver muita força,
+ele dará resultado; se o carma ruim tiver muita força, ele dará
+resultado. Haverá uma imagem do carma surgindo na mente. Se fizemos
+mérito, seguimos os preceitos, construímos um templo, um monastério, ou
+fizemos algum tipo de mérito, às vezes doamos comida aos monges, a
+imagem do carma aparece e a mente vai agarrar aquela imagem. A imagem
+sendo boa, quando morrermos, a mente vai nascer de acordo com o carma
+que acumulamos. Vai de acordo com o resultado do carma. Se acumulamos
+carma ruim, surgirá uma imagem ruim. Se a mente agarrar aquilo, surgirá
+medo e pavor e quando morrermos vamos para um mundo inferior. Carma gera
+os resultados, carma é nossa origem, carma é quem nos acompanha, carma é
+o que nos sustenta. Quem fizer carma bom obtém bons resultados, quem
+fizer carma ruim obtém resultados ruins.
+
+– Tahn Ajahn, a maneira como envelhecemos está fora do nosso controle, e
+o modo como o cérebro envelhece está fora do nosso controle. Para uma
+pessoa que pratica muito o Darma, quando nossa mente está clara e
+acontece que a pessoa tem demência ou Alzheimer, haveria uma boa chance
+de que a mente permanecesse clara durante a morte para poder observar e
+prestar atenção à respiração?
+
+– Se ela tiver *sati* ela vai conseguir, e o carma que eu disse, a
+imagem do carma que tenha realizado, bom ou ruim, irá se manifestar na
+forma de imagem. Se for uma imagem boa, nascerá felicidade e a mente
+agarrará aquela imagem: nesse caso, a imagem do carma trará um bom
+resultado. Se a mente ainda não alcançou um estágio de iluminação, não é
+um A*ryia Puggala*, quer seja dos níveis mais baixos ou mais altos, está
+exposto à imagem do carma que fez no passado. Se fez o bem, tem um bom
+resultado; a imagem surgirá na hora da morte.
+
+Por exemplo, uma imagem conectada ao budismo, às vezes doamos comida aos
+monges e aquela imagem surge, a mente sente felicidade. Se doamos algo à
+sangha, e a mente vê aquela imagem. Se construímos uma cabana para os
+monges, um templo ou ajudamos a construir, ou oferecemos algo material
+para ajudar o budismo, o carma irá se concentrar em uma imagem. Esse
+carma é aquele que, vendo, fará a mente sentir felicidade e ela agarrará
+aquela imagem. E essa imagem é o que vai nos levar a nascer entre os
+seres humanos ou entre os seres celestiais.
+
+– Tahn Ajahn, eu também tenho uma pergunta relacionada. Digamos que
+nosso carma seja bom o suficiente para renascermos num estado favorável,
+existe alguma maneira de quando estivermos perto da morte, se nós ainda
+não completamos nosso trabalho espiritual, nós ainda não entramos na
+corrente,[^6] existe alguma forma de evitar nascer nos reinos celestiais
+para não perder tempo naquele nascimento?[^7] Obrigada.
+
+– Tem que determinar o *pāramī*. Se não quiser receber o resultado do
+mérito que leva a nascer como anjos ou deuses… não é? Tem que determinar
+o *pāramī*. Fizemos mérito frequentemente e isso é o que gera resultado,
+mas nós temos que determinar o *pāramī*: “Eu desejo nascer humano,
+encontrar o ensinamento do Buda e viver num país onde o budismo
+prospera.” Temos que determinar o *pāramī*. Se acumulamos mérito o
+suficiente, determinar o *pāramī* conseguirá que as coisas aconteçam da
+forma que queremos. É como o vestibular: tem nota alta e nota baixa, e
+cada curso tem um mínimo exigido. Se tivermos nota suficiente, podemos
+escolher aquele curso. Se acumulamos mérito suficiente, podemos
+escolher.
+
+[^1]: Em tailandês, a palavra comum para “inteligência” é o composto
+    “sati-paññā.” Às vezes é óbvio que o autor está se referindo ao
+    significado comum; outras vezes, dá a impressão que ele se refere ao
+    significado mais profundo, em *páli*. A pessoa que esteja lendo pode
+    então escolher sozinha como quer interpretar o uso do termo nas
+    diferentes ocasiões ao longo do texto.
+
+[^2]: Veja nota anterior sobre “inteligência.”
+
+[^3]: ห้องพระ – Tradução literal: “quarto do Buda.” Antigamente, na Tailândia,
+    as pessoas reservavam um cômodo da casa onde moravam para colocar um
+    altar e utilizar para a prática de pūja e meditação. Hoje em dia
+    ainda é comum haver um altar dentro de casa mas em geral não é um
+    quarto separado. Mas ainda assim permaneceu o costume de chamar de
+    “quarto do Buda.”
+
+[^4]: Algumas pessoas gostam de vestir roupas brancas quando observam o
+    uposatha.
+
+[^5]: Velhice, doença e morte. Foi ao ter visto esses mesmos três sinais
+    que Siddattha Gotama decidiu abandonar seu lar e tornar-me um monge.
+
+[^6]: Refere-se à realização do primeiro estágio de iluminação.
+
+[^7]: Esta pergunta vem do entendimento de que um nascimento celestial
+    não é favorável à prática do Darma, pois esse tipo de ser
+    experiencia muita felicidade e tende a perder o ímpeto em buscar um
+    fim para o ciclo de nascimento e morte.
+

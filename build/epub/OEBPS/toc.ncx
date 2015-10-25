@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:isbn:978-1-78432-028-7" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+
+    <!-- totalPageCount and maxPageNumber are mandatory, but they're not used in ebooks -->
+    <meta content="-1" name="dtb:totalPageCount"/>
+    <meta content="-1" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Darma da Floresta</text>
+  </docTitle>
+  <navMap>
+    <navPoint id='nav1' playOrder='1'>
+<navLabel><text>Cover</text></navLabel>
+<content src='Text/cover.xhtml'/></navPoint>
+<navPoint id='nav2' playOrder='2'>
+<navLabel><text>Title Page</text></navLabel>
+<content src='Text/titlepage.xhtml'/></navPoint>
+<navPoint id='nav3' playOrder='3'>
+<navLabel><text>Contents</text></navLabel>
+<content src='Text/toc.xhtml'/></navPoint>
+<navPoint id='nav4' playOrder='4'>
+<navLabel><text>Prefácio</text></navLabel>
+<content src='Text/preface.xhtml'/></navPoint>
+<navPoint id='nav5' playOrder='5'>
+<navLabel><text>Nota do tradutor</text></navLabel>
+<content src='Text/translators-note.xhtml'/></navPoint>
+<navPoint id='nav6' playOrder='6'>
+<navLabel><text>Ajahn Chah</text></navLabel>
+<content src='Text/ajahn-chah-quote.xhtml'/><navPoint id='nav7' playOrder='7'>
+<navLabel><text>Conversa com um doutor</text></navLabel>
+<content src='Text/conversa-com-um-doutor.xhtml'/></navPoint>
+<navPoint id='nav8' playOrder='8'>
+<navLabel><text>Budismo estilo Theravada</text></navLabel>
+<content src='Text/budismo-estilo-theravada.xhtml'/></navPoint>
+<navPoint id='nav9' playOrder='9'>
+<navLabel><text>Para quem conhece o Darma não há brigas</text></navLabel>
+<content src='Text/para-quem-conhece.xhtml'/></navPoint>
+<navPoint id='nav10' playOrder='10'>
+<navLabel><text>Duas pontas da mesma cobra</text></navLabel>
+<content src='Text/duas-pontas-da-mesma-cobra.xhtml'/></navPoint>
+<navPoint id='nav11' playOrder='11'>
+<navLabel><text>Problemas do mundo</text></navLabel>
+<content src='Text/problemas-do-mundo.xhtml'/></navPoint>
+<navPoint id='nav12' playOrder='12'>
+<navLabel><text>Mudando de Comportamento</text></navLabel>
+<content src='Text/mudando-de-comportamento.xhtml'/></navPoint>
+<navPoint id='nav13' playOrder='13'>
+<navLabel><text>Prática correta</text></navLabel>
+<content src='Text/pratica-correta.xhtml'/></navPoint>
+<navPoint id='nav14' playOrder='14'>
+<navLabel><text>Nascimento e Renascimento</text></navLabel>
+<content src='Text/nascimento-e-renascimento.xhtml'/></navPoint>
+</navPoint>
+<navPoint id='nav15' playOrder='15'>
+<navLabel><text>Ajahn Liem</text></navLabel>
+<content src='Text/ajahn-liem-quote.xhtml'/><navPoint id='nav16' playOrder='16'>
+<navLabel><text>Gratidão à natureza</text></navLabel>
+<content src='Text/gratidao-a-natureza.xhtml'/></navPoint>
+</navPoint>
+<navPoint id='nav17' playOrder='17'>
+<navLabel><text>Ajahn Sumedho</text></navLabel>
+<content src='Text/ajahn-sumedho-quote.xhtml'/><navPoint id='nav18' playOrder='18'>
+<navLabel><text>Os cinco obstáculos</text></navLabel>
+<content src='Text/os-cinco-obstaculos.xhtml'/></navPoint>
+</navPoint>
+<navPoint id='nav19' playOrder='19'>
+<navLabel><text>Ajahn Piak</text></navLabel>
+<content src='Text/ajahn-piak-quote.xhtml'/><navPoint id='nav20' playOrder='20'>
+<navLabel><text>Perguntas de praticantes brasileiros</text></navLabel>
+<content src='Text/perguntas.xhtml'/></navPoint>
+</navPoint>
+<navPoint id='nav21' playOrder='21'>
+<navLabel><text>Ajahn Anan</text></navLabel>
+<content src='Text/ajahn-anan-quote.xhtml'/><navPoint id='nav22' playOrder='22'>
+<navLabel><text>Sati, Samādhi, Paññā</text></navLabel>
+<content src='Text/sati-samadhi-panna.xhtml'/></navPoint>
+</navPoint>
+<navPoint id='nav23' playOrder='23'>
+<navLabel><text>Ajahn Tan</text></navLabel>
+<content src='Text/ajahn-tan-quote.xhtml'/><navPoint id='nav24' playOrder='24'>
+<navLabel><text>A mente controlada por ilusões</text></navLabel>
+<content src='Text/a-mente-controlada.xhtml'/></navPoint>
+</navPoint>
+<navPoint id='nav25' playOrder='25'>
+<navLabel><text>Ajahn Jayasāro</text></navLabel>
+<content src='Text/ajahn-jayasaro-quote.xhtml'/><navPoint id='nav26' playOrder='26'>
+<navLabel><text>Conselho para estudantes e professores de Darma</text></navLabel>
+<content src='Text/conselho-para-estudantes.xhtml'/></navPoint>
+</navPoint>
+<navPoint id='nav27' playOrder='27'>
+<navLabel><text>Glossário</text></navLabel>
+<content src='Text/glossary.xhtml'/></navPoint>
+<navPoint id='nav28' playOrder='28'>
+<navLabel><text>Copyright</text></navLabel>
+<content src='Text/copyright.xhtml'/></navPoint>
+
+  </navMap>
+</ncx>

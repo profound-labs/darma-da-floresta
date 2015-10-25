@@ -1,26 +1,62 @@
 
+date: 2015-10-25
+version: 'v1.0'
+
 # Epub and Mobi
 # =============
 
-bookid: "ProphecyBookId"
+bookid: "DarmaDaFloresta"
 
-# ISBN for the ebook editions
-isbn: "000-0-000000-00-0"
+isbn: "978-1-78432-028-7"
 
-# BISAC Subject Headings List:
-# http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php
+section_names: [ "Part", "Chapter", "" ]
 
-#subject: LIST / OF / SUBJECTS
-#source: http://www.source.org/
+toc:
+  - { the_matter: frontmatter }
+  - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
+  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
+  - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
+  - { title: "Prefácio", src: 'preface.md', type: preface }
+  - translators-note.md
+  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text }
+  - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
+  - { the_matter: mainmatter, section_number: 1 }
+  - { title: "Ajahn Chah", src: 'ajahn-chah-quote.md' }
+  - { level: 2, src: "conversa-com-um-doutor.md" }
+  - { level: 2, src: "budismo-estilo-theravada.md" }
+  - { level: 2, src: "para-quem-conhece.md" }
+  - { level: 2, src: "duas-pontas-da-mesma-cobra.md" }
+  - { level: 2, src: "problemas-do-mundo.md" }
+  - { level: 2, src: "mudando-de-comportamento.md" }
+  - { level: 2, src: "pratica-correta.md" }
+  - { level: 2, src: "nascimento-e-renascimento.md" }
+  - { title: "Ajahn Liem", src: 'ajahn-liem-quote.md' }
+  - { level: 2, src: "gratidao-a-natureza.md" }
+  - { title: "Ajahn Sumedho", src: 'ajahn-sumedho-quote.md' }
+  - { level: 2, src: "os-cinco-obstaculos.md" }
+  - { title: "Ajahn Piak", src: 'ajahn-piak-quote.md' }
+  - { level: 2, src: "perguntas.md" }
+  - { title: "Ajahn Anan", src: 'ajahn-anan-quote.md' }
+  - { level: 2, src: "sati-samadhi-panna.md" }
+  - { title: "Ajahn Tan", src: 'ajahn-tan-quote.md' }
+  - { level: 2, src: "a-mente-controlada.md" }
+  - { title: "Ajahn Jayasāro", src: 'ajahn-jayasaro-quote.md' }
+  - { level: 2, src: "conselho-para-estudantes.md" }
+  - { the_matter: backmatter }
+  - glossary.md
+  - { title: "Copyright", src: 'copyright.md.erb', type: copyright-page }
 
-# MARC Code List for Relators:
-# Editor [edt], Cover designer [cov], Translator [trl],
-# Book designer [bkd]
-# http://www.loc.gov/marc/relators/relaterm.html
+cover_image: "cover.jpg"
 
-#contributors:
-#  - edt: Lastname, Name
-#  - edt: Other Lastname, Name
-#  - cov: Lastname, Name
-#  - trl: Lastname, Name
+publisher: "Amaravati Publications"
+publisher_logo: "abm-pubs-logo_ebook.png"
+
+publisher_atag: "<a href='http://amaravati.org/'>www.amaravati.org</a>"
+book_atag: "<a href='http://fsbooks.org'>www.fsbooks.org</a>"
+
+subject: RELIGION / Buddhism / Theravada
+source: http://fsbooks.org
+
+contributors:
+  - trl: Mudito, Ajahn
 

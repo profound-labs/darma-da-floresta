@@ -1,0 +1,281 @@
+Perguntas de praticantes brasileiros
+====================================
+
+*Em entrevista, Ajahn Piak responde a perguntas enviadas por praticantes brasileiros.*
+
+– Luang Pó, a primeira pergunta é “Por que a Tailândia, apesar de ser um
+país budista, ainda possui violência, ainda possui problemas com pessoas
+se comportando mal, como em qualquer outro país?”
+
+– Eu acho que é normal, em todos os países só há confusão. Não é “ser
+país budista” que faz não haver confusão. Se todas as pessoas agissem de
+acordo com os ensinamentos do budismo não haveria confusão. É igual no
+mundo inteiro. No islamismo, no cristianismo, por que eles têm confusão?
+Porque confusão vem das pessoas. No mundo inteiro são as pessoas que
+criam confusão, mas o propósito da religião não é gerar confusão.
+
+– Pergunta de uma mulher. Ela pergunta se é errado querer ir morar
+sozinha, largar o marido e ir morar sozinha, porque a sensação dela é
+que viver num relacionamento é um obstáculo em desenvolver a si, faz
+desperdiçar muito tempo em nossa prática, pois temos que viver com
+pessoas que não se comportam de forma correta. Está errado? Se ela
+quiser largar do marido e ir viver sozinha?
+
+– Se tivermos essa resolução é bom, mas temos que olhar qual é nosso
+objetivo, não é? Se vivemos no mundo, o modo de ser é assim: quando você
+cresce você tem que ter um marido ou esposa, tem que ter um emprego,
+esse é o modo de viver das pessoas no mundo. Mas se você pensa que quer
+praticar para alcançar nirvana, você vai ter que fugir dessas coisas
+todas. Mas você vai ter força de vontade suficiente? Porque algumas
+pessoas têm fé, mas quando vão praticar não conseguem os resultados que
+queriam, ou seja, paz. Se praticarmos mas ainda não encontramos
+*samādhi*, ficamos desapontados e voltamos para onde estávamos antes.
+Temos que ter fé e ter sabedoria. Se tivermos fé mas não tivermos
+sabedoria, não vamos conseguir alcançar o ponto, não vamos alcançar o
+objetivo que havíamos determinado. Temos que ter fé e também sabedoria.
+
+– Uma pergunta parecida, suponha que não largue o marido…
+
+– Comece praticando os cinco preceitos. Treine observando os cinco
+preceitos ainda junto à família.
+
+– Ela quer saber se vivendo uma vida conjugal ainda é possível
+conseguirmos fazer progresso na nossa prática do Darma.
+
+– Sim, só depende das nossas ações. Mas na maioria dos casos as pessoas
+não conseguem fazer, porque na vida conjugal há muitos fardos, muitos
+deveres, não temos liberdade.
+
+– Mais uma mulher, ela diz que os hormônios femininos – essa é a
+sensação dela – fazem as mulheres terem uma libido muito forte. Ela diz
+que é difícil aguentar, é difícil lidar com isso. Ela pergunta se há
+algum artifício para não se identificar com aquilo, ela quer sair desse
+ciclo.
+
+– Se ela quer sair disso ela tem que observar – se for fazer de forma
+correta – tem que observar os oito preceitos,[^1] quer dizer, praticar
+*nekkhamma pāramī*.[^2] Mas será que ela consegue fazer? Isso é que é
+importante.
+
+– A pergunta é “Se desejamos que algo aconteça, esse desejo consegue
+realmente ajudar aquilo a acontecer? Por exemplo, nosso pensamento é
+capaz de fazer que aquilo aconteça?”
+
+– Isso é pensar, mas temos que agir, não é só pensar.
+
+– Se apenas pensar…
+
+– Não há ação.
+
+– Se, por exemplo, alguém está doente e nós rezamos, pensamos “que ele
+melhore,” desse jeito, ajuda?
+
+– Ajuda mas pouco. Procurar um médico funciona melhor.
+
+– A próxima pergunta é: “A energia do Buda ainda envolve o mundo?” Ela
+pergunta: “Essa energia consegue nos ver? Está ao nosso redor? Ou ela
+desaparece quando o Buda alcança parinirvana? A energia dele
+desaparece?”
+
+– Cinco mil anos após o Buda ter alcançado nirvana ela desaparecerá. Mas
+ela ainda está presente nos lugares em que as pessoas têm fé; nos
+lugares em que as pessoas não têm fé, ela não existe.
+
+– Significa que a energia mental do Buda ainda está presente no mundo?
+
+– Ainda está.
+
+– Pergunta: “O Buda e os arahants desaparecem após o parinirvana? E se
+for assim, como é possível alguns mestres dizerem que ainda conseguem
+conversar com o Buda e com arahants?”
+
+– Isso eu não respondo, pois perguntou alto demais. Depois que você se
+tornar um arahant venha falar sobre esse assunto. É difícil explicar, as
+pessoas não conseguem entender. Alto demais, se você ainda é uma pessoa
+comum e pergunta sobre isso, foi alto demais.
+
+– É verdade que o Buda ensinou para acreditarmos que, após morrermos,
+vamos renascer? O Buda ensinou assim de verdade ou não? A pessoa que
+perguntou viu num livro que o Buda ensinou a não acreditar em nada: se
+não vemos por nós mesmos, não devemos acreditar. Então a pergunta é a
+seguinte: “Se quisermos ser budistas, somos obrigados a acreditar
+nisso?”
+
+– Tem dois aspectos. Isso é crença, significa acreditar – nós
+acreditamos. No começo temos que ter fé, acreditar. Não acreditar em
+absolutamente nada tem nível alto e baixo. O baixo é, na verdade, não
+acreditar em nada que qualquer pessoa diga. O alto, na verdade, é o Buda
+tendo declarado, ensinado: “praticando assim vai acontecer isso,” e a
+pessoa então vai praticar e treinar até conseguir, como Sāriputta. Em
+uma ocasião o Buda estava ensinando à sangha sobre prática, sobre o
+Darma, e perguntou:
+
+“Sāriputta, acredita em mim?”
+
+E ele disse “Não acredito.”
+
+Os demais disseram “Sāriputta não acredita na doutrina do Buda!”
+
+Mas o Buda perguntou “Por que não acredita?”, e Sāriputta respondeu:
+
+“Antes tenho que ir praticar até conseguir. Quando conseguir, vou
+acreditar. Se ainda não consigo fazer, não acredito.” Tem alto e baixo,
+se estiver muito baixo não acredita em ninguém. O alto é praticar até
+conseguir, e só depois acreditar.
+
+– Uma pessoa comum é capaz de ver seres de outros mundos, como anjos,
+fantasmas e esse tipo de coisa?
+
+– Se tiver visão divina[^3] consegue… Se tiver! Eu não quero falar sobre
+isso, pois, se falar, é como se estivesse declarando ter poderes
+psíquicos.[^4] É uma pergunta que não deve ser respondida, mas se a
+mente daquela pessoa consegue ver, então vê!
+
+– E ele pergunta como fazer para desenvolver essa habilidade.
+
+– Faça sua visão ficar boa. Seus olhos ainda não estão bons, vá curá-los
+e vai ver.
+
+– Como faz para melhorar a visão?
+
+– Vá praticar.
+
+– Praticar e desenvolver *samādhi*?
+
+– É.
+
+– E como é possível saber se aquilo que vemos, por exemplo, se
+estivermos vendo um anjo, como podemos saber se aquilo é de verdade ou é
+apenas a nossa imaginação?
+
+– É difícil responder isso porque ele ainda não sabe. Ele ainda não sabe
+o que é o quê. Isso é difícil falar porque explicar certas coisas… uma
+pessoa com visão boa explicar algo a uma pessoa cega é difícil. É melhor
+você ir curar sua visão, depois venha conversar comigo!
+
+– É mais fácil.
+
+– É mais fácil. Explicar para uma pessoa cega entender é difícil, essa
+cor ela não vê, como explicar o céu se ela não vê?
+
+– A pergunta é “Se uma pessoa é leiga e ensina prática de meditação, é
+apropriado que ela cobre? Quando as pessoas vêm aprender ele cobra e às
+vezes ainda se envolve amorosamente com as pessoas que vêm aprender.”
+
+– Depende da opinião, mas, na verdade, ensinar ou transmitir o Darma
+deveria ser feito de graça. Ensinar o Darma como doação. Mas, às vezes,
+em alguns lugares, eles querem obter algo e então abrem um curso de
+meditação. Aqueles que não têm dinheiro são proibidos de participar. Às
+vezes é assim. Mas se for olhar de acordo com a forma correta,
+deveríamos ensinar o Darma como doação.
+
+– E ter relacionamento com as pessoas que vêm estudar, é apropriado? Se
+uma moça vem estudar…
+
+– Budista pode ser homem, mulher, criança, não importa.
+
+– Digo, ele vai namorar com as alunas.
+
+– Como?
+
+– Às vezes se aproveitam da situação em que se é um professor para
+namorar com as alunas ou alunos…
+
+– Isso mostra que, como dizer… você é um professor, mas você ainda não
+alcançou o Darma. Ainda não entrou no Darma, você ensina mas não tem
+Darma no coração. Você vai ensinando, e enquanto ensina surge desejo e
+você logo vai para a cama com aquela pessoa… Você está ensinando o Darma
+mas está ensinando para obter dinheiro, fama, elogios, ou para buscar
+marido e esposa? Isso não é ensinar o Darma. Você tem que lembrar que
+você não é iluminado, mas consegue ensinar porque leu e memorizou. Os
+mestres falaram e você escutou, você leu as escrituras, você estudou,
+memorizou e portanto é capaz de repetir o que ouviu, mas você ainda não
+é Darma. Se você não é Darma ainda há algo defeituoso em você.
+
+– Supondo que uma pessoa bebe álcool, mas só um pouco, não o suficiente
+para ficar embriagado, não o suficiente para interferir em sua clareza
+mental, ele pergunta: “Isso é pecado?” Se ele beber só um pouco de
+álcool, sem ficar bêbado, é pecado?
+
+– Não sei se é pecado ou não, mas é uma quebra dos cinco preceitos. Esse
+quer beber de um jeito ou de outro…
+
+– A religião cristã ensina que as pessoas homossexuais, quer sejam
+homens ou mulheres, todas irão para o inferno. É o que ensina a religião
+cristã. Ele quer saber se a religião budista ensina a mesma coisa ou
+não.
+
+– Eles se envolvem de maneira correta ou incorreta? Por exemplo, se duas
+pessoas são casadas elas podem ter relacionamento sexual, mas se não
+forem casadas, se aquela pessoa for esposa de uma outra pessoa, você
+então está errado. Seguindo os cinco preceitos você pode ter esposo ou
+esposa, não tem problema. Pode fazer sexo, não tem nada de errado. Mas
+se sair disso, se você tem uma esposa ou esposo e vai se envolver com
+outra pessoa, você está errado.
+
+– Uma pergunta estranha: quando ele senta em meditação ainda consegue
+ouvir outras pessoas conversando sem entender a linguagem deles. Ouve
+somente o som. Então quer saber se isso está certo, se fizer isso há
+algo de errado? Às vezes ele está trabalhando e gosta de fazer isso,
+foca a mente de modo a não ouvir linguagem, ouvir somente o som. Tem
+algum problema?
+
+– Não tem nada demais não entendermos a língua dos outros. Não é
+sentando em meditação que você vai conseguir entender todas as línguas.
+
+– Eles falam a mesma língua…
+
+– Então é como não estar interessado. Se não está interessado não tem
+problema.
+
+– Mais uma: quando ele foca na respiração ele sente que, se forçar
+muito, a mente não se pacifica, não fica parada. Se ele relaxa, larga, a
+mente vai pensar em outros assuntos. Ele não sabe como fazer para
+encontrar o equilíbrio. Se forçar a mente se excita, se relaxar a mente
+se distrai.
+
+– Tem que ter equilíbrio: feche os olhos de forma equilibrada, inspire e
+expire de forma equilibrada. O equilíbrio faz surgir paz.
+
+– Pergunta: quando senta em meditação, sente que a mente se pacifica mas
+somente quando está se sentindo bem; se não está bem ou se tem um
+barulho incomodando ou algo que o incomoda… Se for algo que ele gosta,
+sente paz, mas se não gosta não consegue suportar, não consegue ficar
+parado, a mente foge para outro lugar, ele pede o conselho do Luang Pó.
+
+– Procure um lugar onde não haja som para se sentar, assim vai surgir
+pouca confusão. Mas não está correto o que ele disse, se ele ouvir uma
+música e a mente canta junto com a música, onde vai haver paz? Se
+ouvimos algo que gostamos a mente fica pensando naquilo que gostamos; se
+não gostamos, ela pensa naquilo que não gostamos.
+
+– A última é: “Como ter *sati* na hora em que estamos trabalhando ou
+conversando com outras pessoas?”
+
+– Tem que treinar, se esforçar em treinar. Neste momento o que estamos
+fazendo? Se a mente escapar, estabelecemos novamente. Escapa,
+estabelecemos de novo, tem que fazer assim. Reestabelece um bilhão de
+vezes, mil, dez mil, cem mil, um milhão, vai reestabelecendo até
+conseguir fazer. Quando ela escapa não é nada de ruim, quando voltamos a
+ter *sati* estabelecemos de novo, até conseguir.
+
+– Ele tem dúvida se praticando assim, tendo *sati* na vida diária, isso
+é prática de verdade, dá resultado de verdade fazer isso?
+
+– Se quiser praticar para valer contemple seu corpo e mente sendo
+*anicca, dukkha, anatta*. Tem que contemplar o corpo sendo algo vazio,
+*anicca, dukkha, anatta*; não é “meu,” não sou “eu,” não é estável,
+permanente. Tem que contemplar bem aqui.
+
+– É só isso, muito obrigado.
+
+[^1]: Um dos oito preceitos é o voto de celibato.
+
+[^2]: A capacidade de renunciar, principalmente prazeres sensuais.
+
+[^3]: A capacidade de ver que vai além das pessoas comuns, desenvolvida
+    através da prática de samādhi e jhāna.
+
+[^4]: É uma ofensa à regra monástica declarar possuir esse tipo de
+    capacidade a um leigo.
+

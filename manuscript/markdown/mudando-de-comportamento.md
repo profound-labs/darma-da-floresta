@@ -1,0 +1,542 @@
+Mudando de Comportamento
+========================
+
+*Ensinamento dado à comunidade monástica de Wat Pah Pong.*
+
+… *upajjhāya*. Tendo pedido tutela ao *upajjhāya*, se não houver
+oportunidade de viver com ele, o *upajjhāya* então o delega a um
+professor, um que seja bem-comportado, ensine bem e pratique bem. O
+aluno pede para viver junto a ele e pede tutela àquele professor, vive
+sob a tutela dele. Essa é uma fundação muito importante. Podemos
+comparar, quer seja no mundo ou no Darma. Atualmente é assim: o aluno
+que quer estudar deve permanecer na escola por cinco anos; após cinco
+anos ele vai estudar em outro local. É igual no mundo. Todas as pessoas
+têm seu comportamento, carregam seu próprio comportamento. Pois esse
+comportamento existe graças ao poder dos desejos, da ganância. Ganância
+surge tendo ignorância como fundação e então ela tem a oportunidade de
+se apoiar naquele comportamento.
+
+Quando nos ordenamos monges temos que mudar de comportamento, temos que
+pedir tutela ao *upajjhāya*, ao professor, para que ele nos supervisione
+sempre. Não deve se ausentar do professor. Caso se ausente por dois
+dias, deve pedir tutela novamente, pois a anterior se quebrou. Os monges
+e noviços devem agir assim. Caso se ausentem, mesmo que só dois ou três
+dias, a tutela se quebra. Quando o mestre, o *upajjhāya* ou o professor
+vier, tem que renovar a tutela, tem que pedir tutela novamente.[^1] É
+feito dessa forma para que fique mais atento, mais cuidadoso. Não seja
+descuidado em pedir tutela, não seja descuidado em seguir tutela, porque
+ainda está sob tutela. Temos que contar com a supervisão do *upajjhāya*
+e do professor até o quinto ano de vida monástica.[^2]
+
+Após cinco anos já saberá o suficiente; caso tenha morado com um
+*upajjhāya* ou um professor que pratica de forma correta, conhecerá o
+modo de prática. Conhece e então sente vergonha e medo,[^3] sabe o que é
+uma ofensa à regra monástica com profundidade. Quer esteja de pé,
+andando, sentado, deitado, onde quer que vá, não age como bobo, não
+pensa à toa, não faz à toa. Mas ainda há ganância, raiva, ainda há de
+tudo, mas está ciente, não tem coragem de fazer aquilo, não age sob a
+força dos desejos. Não importa o quão doloroso e difícil seja, não tem
+coragem de fazer. Por quê? Medo. Medo e vergonha. Tem vergonha do que é
+errado, não tem coragem de fazer, não tem coragem de dizer. Tem
+vergonha, medo. Vergonha e medo transformam-se em *sīla* impecável.
+Tornam-se hábito e no final a mente se pacifica.
+
+Tem que se tornar uma pessoa de hábitos de comportamento e fala
+diferentes do que eram antes. Muda do comportamento velho para um
+comportamento novo. Comportamento de monge, de noviço, comportamento de
+asceta. Muda de comportamento. As pessoas que praticam também, pode
+olhar nossos monges e noviços, se já possuem um comportamento
+estabelecido, têm que mudar aquele comportamento. Para mudar de
+comportamento, a mente tem que mudar. Se tentar mudar sem mudar a mente,
+a mente não toma conhecimento e não consegue mudar. Pode ouvir todo dia
+sem falta, mas não consegue mudar. Por quê? Porque a mente ainda não tem
+medo, não tem vergonha, ainda não adquiriu novo comportamento. Se
+adquiriu o novo comportamento ela sente vergonha e medo, não tem coragem
+de falar, muda todo o sistema de corpo e fala daquela pessoa. Muda tudo,
+a não ser o que é *vāsanā*.
+
+Como por exemplo o Sāriputta. Esse *vāsanā* os *sāvakas* largam com
+facilidade, mas só em parte. Não como o Buda, só ele consegue largar por
+completo, consegue abandonar qualquer forma de comportamento. Esse
+*vāsanā* é o comportamento que as impurezas mentais condicionaram em
+vidas passadas, elas condicionaram por várias vidas. Viemos agindo dessa
+forma até ficarmos habituados, falamos até ficarmos habituados, agimos
+até ficarmos habituados, até virar nossa personalidade, até entrar nos
+ossos, até fixar-se firme nos ossos. Como um bêbado. Bebe todo tipo de
+bebida, é um boêmio de longa data, mesmo quando não bebe, anda como se
+estivesse bêbado. Sempre que olham pensam que está bêbado: fala como
+bêbado. Isso é porque já se fixou firme na mente, nos ossos, já virou
+parte da personalidade dele. Mesmo quando não bebe é um bêbado, mas na
+verdade não há nada, não está embriagado. Isso não é possível mudar.
+*Vāsanā* é a mesma coisa.
+
+Como o Sāriputta. No passado ela era um macaco. Ele nasceu como macaco,
+e os macacos gostam de correr, balançar, pular para frente e para trás.
+O Sāriputta também não conseguia largar esse hábito, esse *vāsanā*. Às
+vezes andava até uma poça de água e pulava, “pum!”, como um macaco. Mas
+era só um pulo, não havia nada de mais. Não tinha a ver com nada. Tinha
+a ver com o *vāsanā* dele ser assim; quando fazia, não havia nada de
+mais. Não gerava impureza, não gerava ganância, maldade ou demérito. É o
+que se diz, a mente se acostumou àquele hábito.
+
+Isso é a mesma coisa. Se viermos praticar querendo encontrar paz,
+querendo praticar, temos que abandonar nossa forma anterior de ser.
+Mudar nosso corpo, nossa fala, nossa postura, nosso modo de falar, nosso
+modo de agir. Muda tudo. Vai mudando de pouco em pouco. Isso é o que se
+chama pedir tutela e ganhar um novo hábito. Quer dizer, jogamos fora o
+hábito antigo, a forma antiga de falar, a forma antiga de brincar, a
+forma antiga de fazer piadas, jogamos fora. Ao ver isso ele joga fora.
+Ao jogar fora, ele muda. Abandona o demérito, pratica o mérito, abandona
+a maldade, pratica a bondade, abandona o comportamento antigo e toma um
+novo. Quando o novo comportamento vem, ele muda a mente por completo.
+Sabe sentir medo, sabe sentir vergonha, sabe todo tipo de coisa. Isso já
+é uma nova vida. É como nascer em uma nova vida. Morre daquela vida e
+nasce nessa outra. Morre daquele comportamento e nasce nesse outro. São
+duas pessoas diferentes, mas são a mesma pessoa: morreu e nasceu de
+novo. Muda, muda, muda.
+
+De acordo com o nível de prática, chamam-se *Sotāpanna, Sakadāgāmi,
+Anāgāmī, Arahant.* Esses são nomes de pessoas que conseguiram remover
+impurezas mentais. São a mesma pessoa, não são várias pessoas, são a
+mesma pessoa. Existem vários nomes porque eles mudam de acordo com a
+característica da mente, tomando a capacidade de abandonar e remover
+impurezas mentais como ponto de referência. Quando remove aquelas
+impurezas, aquele comportamento, não há diploma como há no mundo. Quando
+faz contato com aquele conhecimento, muda, abandona, fica diferente. É o
+que dizemos “nasce novamente,” muda. Pode chamar de “nascimento *aryia*”
+se quiser. Ele já escapou do inimigo anterior, aquilo que passou era um
+inimigo. Aquilo que nos fazia degenerar se acaba. Não há mais inimigos,
+já os ultrapassamos. Os *aryias* ultrapassaram os inimigos, escaparam
+dos inimigos, o coração escapou dos inimigos, a fala escapou dos
+inimigos, o corpo escapou dos inimigos do ensinamento do Buda, do que é
+belo e bom. Escapa. É um inimigo e nós escapamos dele. Matamos o que é
+inimigo à nossa sinceridade.
+
+No começo é como nascer de novo – ganha um novo comportamento, adota um
+novo comportamento. Os monges também. Pode olhar aqui mesmo: eles
+praticam, praticam, até virar hábito. Podem comparar como são agora com
+o que eram no passado – é muito diferente. Mudam de sensação,
+pensamento, são completamente diferentes. Isso se chama “comportamento
+interior.” Quando o Buda diz que uma pessoa já não precisa de tutela, é
+porque a mente já não pratica mais o mal. Por isso se diz que o
+*Sotāpanna* é uma pessoa que não volta. É uma mente que não volta, é uma
+mente que caiu na correnteza do nirvana. Não chega a oito vidas.[^4]
+Aqui podemos observar que o que mudou foi o comportamento. Quando surge
+sabedoria, é capaz de remover essa impureza. Quando tem ainda mais
+sabedoria do que isso, não consegue mais se apegar, acontece sozinho.
+Aquele comportamento muda.
+
+Vê a coisa velha e joga fora, como se fôssemos à floresta e entrássemos
+para colher frutas. Vemos as frutas que ainda estão verdes e colhemos,
+enchemos a sacola. Em seguida vemos frutas que estão melhores que
+aquelas, então temos que jogar fora as frutas verdes. Quando vemos
+assim, jogamos fora, mudamos. Nossa mente é igual. Mudamos, vemos a
+desvantagem do antigo e abandonamos ainda mais, jogamos fora. Quanto
+mais vemos, mais abandonamos. O que estamos praticando aqui – se
+pensamos que está correto, que é bom – é um aprendizado contínuo, vamos
+abandonando continuamente. Por isso o nome vai de acordo com a prática,
+com o nível da mente que vai mudando, mudando. Chama-se comportamento.
+
+Então, todos nós também temos que mudar nosso comportamento antigo.
+Quando mudando de comportamento, no começo temos que obrigar, mas em
+seguida não é preciso obrigar, a mudança ocorre sozinha. No começo temos
+que nos adaptar, ensinar, aconselhar a nós mesmos, aguentar. Vamos
+praticando até conseguirmos ficar de pé sozinhos, então não há mais
+problemas. Vira nossa própria natureza, nossa personalidade. Nasce uma
+sensação firme na mente, não admitimos mais, não admitimos fazer errado,
+não admitimos fazer o mal.
+
+Então, o *Sotāpanna* é uma pessoa que não volta, *sotā patipanno* –
+pessoa que segue adiante, não volta, segue adiante, vai continuamente.
+Como ir a Ubon ou Warin, quanto mais formos, mais próximos ficamos, mais
+próximos ficamos até chegar a Ubon. É uma pessoa que flui adiante,
+*sotā* significa fluir. Como os rios e pequenos riachos, que fluem em
+direção ao oceano. É a mesma coisa. Isso sabemos no aqui e agora, não
+dependemos da aprovação de ninguém, basta praticarmos e saberemos.
+Aquilo que é pesado fica leve, aquilo que é difícil fica fácil. Aquilo
+de que gostamos, mas que quando fazemos gera malefício, não temos
+coragem de fazer. Portanto, aqueles que praticam o Darma, se forem
+leigos, são diferentes dos demais leigos. Se forem monges, são
+diferentes dos demais monges, graças à sua prática. Em seus modos, seu
+ir e vir, comer, em tudo que fazem, não há bobagem, não brincam. A mente
+fica hábil. No começo o mestre ajuda a obrigar, nós nos obrigamos a
+treinar. Com o passar do tempo a mente enxerga e então mudamos. Quando
+ela muda, não quer mais voltar a ser como antes. Não quer voltar ao que
+era antes, pois é errado, não está certo. Portanto, o *Sotāpanna*
+consegue remover impurezas desse jeito e é uma pessoa que não volta. Não
+volta a fazer maldade, não volta a causar destruição. Mesmo que ele
+queira fazer, queira falar, queira o que seja, não segue aquele impulso.
+Se chama “uma pessoa que não volta.”
+
+Todos nós também, podem olhar, nos ordenamos e, se praticarmos, vamos
+mudar. Mudamos nosso comportamento antigo, nossa sensação antiga, nosso
+modo de falar antigo. Tem que mudar, muda continuamente, tem que mudar.
+Por quê? Porque estamos atentos, temos cuidado, chama-se “*sīla
+samvara*”. *Sīla* é aquilo que controla, para que tenha medo, vergonha,
+até se desenvolver e não querer mais fazer o que é ruim, o que não é
+bom, graças à *sīla. Sīla* nos faz mudar de comportamento, nos faz ver
+claramente: “Isso está errado, aquilo está certo,” nos faz ter vergonha
+e medo. Esses dois, medo e vergonha, são a totalidade de *sīla*. Quer
+seja *sīla* de monge, noviço, leigo, todas as formas de *sīla*. Se não
+tiver vergonha e medo, fica tudo sujo.
+
+Portanto, aqueles que são sábios não sentem dificuldade em observar
+*sīla*. Se não entendemos *sīla*, sentimos dificuldade em observar. Não
+precisa ler a regra monástica do começo ao fim: “Se fizer isso é uma
+ofensa, se fizer aquilo é uma ofensa,” tentar fazer dessa forma é muito
+difícil, não tem como não ser. Na verdade os sábios observam *sīla*
+resguardando suas mentes para que sejam dessa forma normalmente e
+pronto, isso já é *sīla* por completo. Já é *sīla*. Portanto, quando a
+prática chega ao nível mais alto, a prática de *sīla* se refina ainda
+mais, o cuidado, a atenção, pois a mente fica hábil, a mente vê. Não
+precisamos forçá-la, ela é correta naturalmente, ela vê por si
+claramente, então se distancia ainda mais do que é ruim. Ela vê que a
+prática, que todas essas observâncias, têm muito valor. Vemos o mal
+naquilo que fazíamos e que não é bom. Quando vemos o mal naquilo,
+podemos praticar. Qualquer coisa em que ainda não vimos o mal, não
+conseguimos abandonar. Qualquer coisa em que ainda não vimos o
+benefício, não queremos praticar. Na hora de abandonar vemos o
+malefício, na hora de praticar vemos o benefício, assim fica fácil. É
+como se fôssemos puxados. Vemos o malefício e fugimos dele, vemos o
+benefício e vamos em busca dele. Quando vê o malefício dessa forma, a
+sensação, o pensamento que surge naqueles sábios que se dedicam a essa
+prática é: “Quando conseguirei escapar disso?” Surge desencanto,
+desilusão, procuram um caminho para não voltar a nascer, não buscam mais
+nascimento, buscam aquilo que não nasce, tentam encontrar aquilo que não
+nasce mais. Procuram abandonar, procuram remover, observam e verificam
+seus corpos, fala e mente, onde estiver errado – praticam bem ali, se
+esforçam bem ali. É assim mesmo.
+
+Portanto, esse comportamento que o Buda ensinou, deixou para nós, está
+muito correto. Quem não tem esse comportamento tem que mudar o antigo.
+Ainda tem o comportamento antigo, portanto tem que mudar de
+comportamento. Se o praticante quiser seguir de acordo com o Darma, deve
+mudar. Quando sabe e vê, ele muda. Aquele monge fica diferente dos
+demais monges, o noviço fica diferente dos demais noviços, o leigo fica
+diferente dos demais leigos, pois é algo diferente.
+
+Aqueles que praticam o Darma têm que conhecer moderação. Mesmo em casa,
+por exemplo, tendo uma esposa ou esposo, ainda consegue tornar-se um
+*Sotāpanna*, mas tem que conhecer moderação. O *Sotāpanna* conhece a
+moderação dele, não é uma pessoa que não conhece moderação, ele conhece
+moderação. Conhece moderação de que forma? Tendo sede, bebe água e
+chega. Tendo fome, come e chega. Isso é conhecer moderação. No nosso
+grupo é assim: quando comemos, chega. Beber álcool, drogas, cerveja, o
+*Sotāpanna* não vai nessa direção. Se tem uma família, toma deleite
+somente em sua família, quer dizer, não admite buscar diversão nas
+diversas formas de sensualidade. Não busca esse tipo de diversão. É como
+se ele caminhasse até cansar parasse neste mundo só um minuto para
+descansar e depois fosse embora. Só isso. Não vê como algo bom, algo
+elevado, não vê como algo especial, ele vê como algo normal. Viver,
+comer, para aquele que pratica, é tranquilo. Vivendo em casa ele é
+diferente das demais pessoas, o modo de viver é diferente dos demais,
+vive com felicidade. Se vive no monastério é a mesma coisa. Se é monge
+também é diferente dos demais monges. O modo de ser dessa pessoa é
+diferente das demais. Ela possui um coração saudável. Não tem coragem de
+fazer o mal, respeita o Buda, o Darma e a Sangha ao máximo.
+
+Prática é a mesma coisa: se formos desenvolver nossa mente, temos que
+saber o que se passa na nossa mente, o que estamos sentindo. Tem que ter
+medo, vergonha, não ter coragem de fazer o que não é nosso dever. Nosso
+dever é apenas abandonar. Essa sensação nasce graças à prática: estando
+ciente, abandona. Não é para estar ciente mas não abandonar, isso é
+ficar só na teoria, não alcança o coração. É a mesma coisa, o que
+estamos estudando juntos, desenvolvendo juntos, requer que pratiquemos
+muito. Tem que ser muito. Não é só vir aqui no dia do *uposatha* e ouvir
+o sermão. Se praticarmos vamos ver, se praticarmos vamos saber, até
+mudarmos de comportamento. Se mudamos não precisamos mais ficar
+direcionando muito, só um pouco e a mente vai sozinha. Por exemplo, se
+for *Sotāpanna* não precisa mais direcionar. Ele já caiu na correnteza,
+ele segue sozinho, ele consegue ir sozinho. É uma pessoa que já não
+precisa de tutela.
+
+Hoje em dia quase não existe quem siga essa regra. Se ordenam e em um ou
+dois dias já vão embora, seis ou sete dias e vão embora sem avisar
+ninguém, de acordo com o que der vontade. Ainda não terminou a tutela,
+ainda toma o comportamento antigo, o jeito antigo, a sensação antiga e
+vai praticar. Ainda é um leigo, um dono de casa, não tem comportamento
+de monge, pois ainda não mudou. Portanto o Buda disse que se ainda não
+tem vergonha, não tem medo, não tem disciplina, mesmo que tenha sessenta
+anos de vida monástica, ainda deveria estar sob tutela. Mesmo que tenha
+setenta anos de vida monástica, ainda deveria estar sob tutela. Deixamos
+a tutela quando conseguimos cuidar de nós mesmos, é isso. No mínimo
+cinco anos. É verdade, se durante os cinco anos teve determinação em
+praticar, se esforçou em fazer, estará bom. Quer seja monge ou noviço,
+onde for viver será bom. Após cinco anos pode-se dizer: “Dá pro gasto.”
+Sabe executar tarefas, é hábil em remover impurezas mentais. Portanto o
+Buda determinou que houvesse a tutela. Enquanto estamos sob tutela
+dependemos de outra pessoa, dependemos do *upajjhāya*, dependemos do
+professor. Ou, caso deixe aquele professor, tem que buscar um monge de
+bom comportamento, *sīla* impecável, e pedir tutela a ele. Esse é o modo
+de prática do Buda. Assim não degenera. Se agir assim, não se degenera,
+só encontra progresso à frente.
+
+Bom, ajudem uns aos outros. Se ajudarmos alguém a ficar dentro da ordem
+monástica, ele se beneficia ao máximo. É fácil de ensinar, não é um
+fardo. Não é um fardo para o professor nem para os demais monges, pois
+já sabe o que é errado, o que é perigoso e abandona ambos – caso a mente
+seja desse jeito. Isso consegue acontecer graças à prática, a saber
+aguentar, a fazer esforço. Olhe num único ponto: nossa mente. Olhe aqui
+porque “saber” está na nossa mente, nosso comportamento está na nossa
+mente. A mente é um ponto no nosso corpo, este amontoado chamado forma,
+esta forma que usamos para sentar, há um único ponto em que sabemos,
+vemos, é o ponto do coração. Os olhos, ouvidos, nariz, língua e corpo
+passam pelo ponto do coração. Portanto, o Buda dizia para saber cuidar
+do coração. Ter habilidade em cuidar do coração. Ter *sati* cuidando do
+coração, porque quando guardamos ali, cuidamos ali, naquele ponto,
+qualquer objeto mental que passe vai chegar àquele ponto. Quando chegar
+naquele ponto nós saberemos. Quando sabemos, é como um visitante que
+chegou, temos que recebê-lo. Se somos uma pessoa esperta, recebemos com
+sabedoria, conseguimos lidar com aquele objeto mental. Se não somos
+espertos, temos que recebê-lo com ignorância e ele vai nos puxar pelo
+nariz.[^5] A mesma coisa com os objetos mentais.
+
+Portanto, ele dizia para aprender, mudar de comportamento, conhecer
+todas essas coisas. Quando chega o *uposatha* estudamos *sīla*. A mesma
+coisa para nós praticando o *uposatha* hoje, é para podermos ser dessa
+forma. Para podermos ver dessa forma, ser dessa forma. A prática do
+ensinamento do Buda não requer muito, basta observar nossa mente, viver
+com o mestre e observar. Quando um objeto mental surgir, não se apresse
+em ir atrás dele, não vá correndo atrás dele: “Eu gosto muito disso,”
+quando a mente estiver assim, não vá atrás dela. “Disso não gosto nem um
+pouco!”, não diga ainda, observe. Observar é uma forma de enriquecer a
+sabedoria. Faça, largue aquilo, largue isso. Dessa forma sabedoria
+consegue surgir. Se formos correndo atrás dos objetos mentais, sabedoria
+não consegue surgir. Se corrermos para aquele lugar, sabedoria não
+consegue surgir. Por quê? Porque aquele lugar não é onde nasce
+sabedoria. Sabedoria nasce onde vemos essas duas coisas.
+
+Corra, veja e volte. Depois de segui-la, voltamos para nosso lugar, é
+aqui que nasce sabedoria. O que segue os objetos mentais é a ignorância,
+é ela que segue. O Buda dizia para ficar firme: quando os objetos
+mentais fazem contato, aqui continua firme. Firme significa normal. Se
+algo desagradável fizer contato – continuamos firmes. Essa firmeza que
+não se inclina à esquerda ou à direita, é bem aqui que sabedoria nasce.
+Talvez perguntem: “Por que não mais vamos atrás dos objetos mentais?”
+Porque a mente vê que aquilo é incerto, que aquilo não é de verdade.
+Aquilo é incerto, não é preciso ficar correndo atrás, não precisa se
+apegar. A mente age sob essa razão, ela entende todas essas coisas de
+acordo com a verdade dessa forma.
+
+Por isso observe sua mente continuamente, contemple continuamente.
+Sabedoria nasce da mente, sabedoria nasce na mente. Fazer a mente ficar
+esperta é fazer sabedoria nascer ali. Se vamos correndo atrás, não temos
+esperteza, somos burros. Se corremos atrás, não somos espertos, não
+somos sábios, então somos burros, ficamos correndo de um lado para o
+outro. Corre, corre, sem saber para onde está indo. Quando está feliz,
+corre até o limite da felicidade; quando está triste, corre até o limite
+da tristeza; quando gosta, corre até o limite do gostar; quando não
+gosta, corre até o limite do desgostar. Só sofrimento. O Buda ensinava a
+ficar firme, a ser unificado.
+
+Falando de forma simples, pratique “*Buddho*”[^6] até a mente ficar
+unificada o tempo todo. Mesmo o Buda e os *sāvakas* tinham felicidade e
+sofrimento, tinham coisas de que gostavam e não gostavam, mas eles
+conheciam aquilo e não corriam atrás. Largavam, pois viam o mal daquilo.
+Esse tipo de Darma não é um Darma para desenvolver, é um Darma para
+abandonar. Quando surge deleite, estamos cientes; quando insatisfação
+surgir é a mesma coisa, eles têm o mesmo valor. Ele ensinava a largar,
+largar esses dois objetos mentais. Não é para largar por ignorância, é
+largar por conhecer todas essas coisas. Eles surgem rápido. Quando é
+felicidade, sabemos que é a mente feliz. Surge sofrimento e sabemos, mas
+não nos apegamos ao sofrimento. Não há dono daquele sofrimento nem
+daquela felicidade. Assim que está ciente, solta. Surge e desaparece,
+surge e desaparece. Os elementos surgem e desaparecem, só isso.
+
+A mente é livre. A mente não se mistura com os objetos mentais: mente é
+mente e objetos mentais são objetos mentais. Quando separamos a mente
+dos objetos mentais, vemos que são distintos. Um objeto ruim surge, mas
+a mente ainda está boa, ela não fica ruim atrás do objeto. O que é ruim
+é o objeto, a mente não corre atrás. Objetos bons, ruins, de que
+gostamos, de que não gostamos, são apenas objetos mentais. É apenas o
+Darma surgindo e desaparecendo. Se sentarmos e olharmos, vemos apenas
+surgir e desaparecer, surgir e desaparecer. Quando ouve ou vê, está
+ciente, o mesmo quando de pé, andando, sentado ou deitado. Vê que aquilo
+é do jeito que é, não sofre por causa daquilo, não fica feliz por causa
+daquilo. Não se apega à dor ou prazer que vem daquilo. É da natureza
+daquilo surgir e desaparecer em seguida, vê o surgir e desaparecer,
+surgir e desaparecer. Naquela hora ele sabe que aquilo que surge tem que
+desaparecer. Vê o Darma surgindo e desaparecendo. Vê o Darma surgindo e
+desaparecendo, o que mais haveria de ser?
+
+É como uma onda no mar que cresce, cresce, e nós observamos. Quando ela
+chega à margem ela: “Tchaaa!”, quebra e se dispersa, não sobra nada.
+Essa onda acabou, vem a seguinte, vem até a margem; quando chega, se
+dispersa novamente. É assim o ano inteiro, a vida inteira, é desse mesmo
+jeito. É como uma onda atingindo a margem. Esses Darmas são a mesma
+coisa: surgem e desaparecem, surgem e desaparecem, desaparecem e surgem,
+surgem e desaparecem. Eles são assim mesmo. A mente não nasce, não
+desaparece junto com aquilo. A mente não nasce ou desaparece junto. Por
+que não nasce nem desaparece junto? Porque vê que tudo isso é
+existência, vida. Não é possível ficar correndo atrás disso. Quando a
+mente sabe de tudo isso, quando se torna uma pessoa esperta – larga, a
+mente larga.
+
+Largar não é o mesmo que não saber, tem que saber para poder largar. Se
+usar a linguagem do Darma, podemos dizer que a mente ficou vazia. Se
+disser que a mente fica vazia, é como o Venerável Mogharaja.[^7] Māra
+não conseguia alcançá-lo, a morte não conseguia alcançar, ele já tinha
+uma proteção. Māra é a morte, ela não conseguia alcançar. Não conseguia
+alcançar o Venerável Mogharaja. Por que não conseguia alcançar? Porque
+ele sabia de acordo com a verdade, que não existem seres ou pessoas. O
+que nasce e morre é só “nascer e desaparecer,” mente e corpo surgem e
+desaparecem de acordo com a natureza delas. Ele não morre – Māra não
+conseguia alcançá-lo. Terra, fogo, água, ar se dispersam de acordo com a
+natureza deles, não há um ser ou pessoa ali. É vazio dessa forma, não é
+vazio de outra forma. Não é vazio sem saber de nada, sem conhecer
+prazer, dor, não saber de nada – vazio. Normalmente a mente de uma
+pessoa não consegue ser vazia dessa forma. Se ficar vazia dessa forma,
+ainda vão existir dúvidas.
+
+Temos que procurar o que é vazio naquilo que não é vazio; temos que
+procurar libertação nas convenções.[^8] Temos que procurar frescor no
+calor, procurar paz na confusão, procurar felicidade no sofrimento. Tem
+que ser assim mesmo. A mente vazia não é vazia sem saber de nada. Ela
+larga dos apegos, larga desejo, larga raiva, larga ignorância. Esses
+objetos mentais não conseguem mais criar desejo ou raiva, pois não há
+mais dono. Surge prazer, mas não há dono daquele prazer. Surge dor, mas
+não há dono. Quando forma, sensações, percepções, formações mentais[^9]
+morrem e se dispersam, não há alguém para morrer. Māra não consegue
+alcançar, não consegue alcançar essa pessoa. Portanto Māra não conseguia
+alcançar o Venerável Mogharaja. Māra só consegue alcançar aqueles que se
+apegam a “eu,” “meu,” “nós,” “ele.” Só alcança aqueles que têm impurezas
+mentais, que não sabem de acordo com a verdade. Por isso se diz “mente
+vazia,” “mente vazia.” Se só pensarmos a respeito, não veremos nada de
+mais. Pensa, fala isso, fala aquilo mas não sabe nada. Não sabe nada
+sobre o que é vazio, pois ele é justamente o pacificar de todas essas
+coisas, não é outra coisa.
+
+É o que se chama comportamento. No começo isso nasce do comportamento e
+vai mudando continuamente, *Sotāpanna, Sakadāgāmi, Anāgāmī, Arahant*,
+etc. Essas são manifestações da mente, vêm da prática e recebem esses
+nomes por abandonarem essas impurezas mentais, não é outra coisa. Não
+pergunte: “Eu pratiquei esse tanto, minha mente chegou a esse ponto, que
+nível é esse, o que já atingi?”, não pergunte pois só cria confusão. A
+mente e esses termos são diferentes, não são iguais. Já leram? “Desejo,
+raiva, ignorância,” já leram? O que surge no seu coração e a palavra nos
+livros, são diferentes? Se só ler o livro é fácil: “Eh, desejo é assim,
+raiva é assim” – fácil. Mas quando nasce na nossa mente é daquele jeito?
+Eles vêm com violência, a coisa real é assim. Portanto, é característica
+da prática enxergar mais fundo do que isso. O conhecimento teórico não
+leva a abandonar. Com o conhecimento que vem da prática, se conhercemos
+de acordo com a verdade, conseguiremos abandonar. Se aquilo é ruim,
+vemos de verdade; se é útil, é útil de verdade. Gera malefícios ou gera
+benefícios na mente de verdade. É assim, e por isso o comportamento vai
+mudando continuamente. Vai nascendo continuamente, continuamente nossa
+mente, por isso temos que procurar sabedoria na nossa mente.
+
+Na maioria dos casos as pessoas pensam que essas são unidades separadas.
+Por que o Buda separou em *sīla, samādhi, paññā*? Separou para que os
+que estudam a teoria aprendam fácil, entendam fácil. Essa característica
+se chama *sīla*, essa *samādhi* e essa *paññā*. Mas na verdade *sīla,
+samādhi, paññā* são a mesma coisa. São o mesmo, mas separamos, por
+exemplo nosso corpo: estes são os olhos, estas as orelhas, esta a boca,
+este o braço, todas as coisas no corpo de alguém, são a mesma pessoa. É
+a mesma pessoa. Separamos para saber “ali são os olhos, orelhas, nariz,
+pés, corpo” – separamos. Pode separar o quanto quiser, eles não vão a
+lugar algum, continuam sendo a mesma pessoa. O praticante tem que ser
+assim, vai unindo, unindo. Unindo *sīla, samādhi, paññā. Sīla, samādhi,
+paññā* são um mesmo corpo. Se são um mesmo corpo, fica difícil estudar a
+teoria, então separam: corpo e fala são *sīla*, mente é *samādhi*,
+*paññā* é *paññā*. Separam. A característica de sentir, pensar, saber
+com clareza chama-se *paññā*, a característica que é pacífica se chama
+*samādhi*, a característica que tem cuidado e atenção se chama *sīla*.
+
+O nariz inala e sente fedor, sente perfume. Os olhos veem uma forma, os
+ouvidos ouvem um som, tudo se reúne no saber da mente. Por que
+separamos? Para saber que aqui é o nariz, conhecer o nariz. Este é o
+nariz, estes são os olhos, esta é a boca, esta é a carne, a pele, os
+pelos, separa tudo mas ainda fica no mesmo lugar. Quando juntamos tudo
+isso e contemplamos, vemos que este corpo é algo incerto; então a mente
+consegue escapar, consegue largar, ver a desvantagem daquilo. Entende e
+vê todos os fios de pelo, todos os fios de cabelo, todos os ossos, todos
+os tendões, vê tudo e surge *nibbidā* – desencanto com este corpo.
+Separamos para podermos entender mais facilmente, só isso, mas no final
+tudo se reúne.
+
+A prática é a mesma coisa, *upacāra samādhi, appanā samādhi*. Como é
+*appanā samādhi*?* Upacāra samādhi, khanika samādhi, appanā samādhi*,
+tudo isso diz respeito à mesma mente. *Khanika samādhi* é ter paz por um
+período curto. *Upacāra samādhi* vai indo aos poucos, senta um período
+maior. São períodos de tempo, esse período é curto, aquele é longo.
+*Appanā samādhi* fica direto várias horas, é firme; quando a mente está
+assim se chama *appanā samādhi, upacāra samādhi, khanika samādhi*. É a
+mesma mente. Quando tem pouco *samādhi* tem um nome, quando tem mais
+*samādhi* que aquilo, tem um outro nome, quando chega ao máximo tem um
+outro nome. Esse assunto temos que estudar para poder conhecer. Por
+exemplo, estude como é *khanika samādhi*, como é *upacāra samādhi*, como
+é *appanā samādhi*, pode estudar antes, mas ainda não vai saber. Tem que
+fazer, aí vai ver que existe paz por um período curto – *upacāra
+samādhi* anda, *upacāra samādhi* passeia, reflete. Passeia dentro
+daquela paz por um período. *Appanā samādhi* é firme, tem ainda mais
+força que os dois tipos anteriores de *samādhi*. Esses três só podem ser
+encontrados na mente daquele que pratica. Se perguntar antes, não vai
+entender: “O que é isto?” Não vai entender porque quando chega em
+*upacāra samādhi* não surge nenhuma placa com os dizeres: “Aqui é
+*upacāra samādhi*”, não aparece desse jeito. Só as características são
+visíveis. Se temos sabedoria vemos: “Este nível é leve desse jeito,
+aquele é leve daquele jeito, aquele outro é assim,” enxergamos a mente
+desse jeito, de acordo com os textos. Essas são manifestações da mente.
+
+Tem que ver por si mesmo, não precisa pensar nem complicar muito. No
+começo da prática, peço que tenha atenção e cuidado com *sīla*. Esse é o
+começo de tudo, tem que virar comportamento. Se estiver em grupo é como
+se estivesse sozinho. Se está sozinho, está sozinho. Não há diferença,
+está ciente. Tem diligência o tempo todo dessa forma. Isso é o que se
+chama prática: quando a mente enxerga, é assim. Ela não abandona seu
+dever. Quando chegar a esse nível, cuide para que a mente continue
+assim, procure cuidar dessa mente continuamente. Então saberá, verá tudo
+o que surgir naquela mente. Como uma tela de cinema: não olhe para outro
+lugar, olhe para a tela. Qualquer evento que ocorrer vai aparecer na
+tela; a mente é a mesma coisa. Não precisa dar nó na cabeça, não precisa
+pensar demais. Tenha cabeça fria e cuide para que nada consiga lhe
+enganar. Conhecemos aquilo que gostamos e aquilo que não gostamos de
+acordo com a verdade, largamos aquilo até isso virar comportamento.
+Quando largamos ficamos tranquilos. Quando carregamos é pesado, quando
+largamos fica leve, vemos de acordo com a verdade na nossa prática. Não
+é de outra forma, não precisa ter dúvidas. Peço apenas que pratiquem,
+cada um por si, pouco ou muito, mas se comportem de acordo, criem as
+condições, respeitem o treinamento.
+
+Quando a mente se distrair, um pouco que seja, esteja ciente e largue
+aquilo. Quando quiser dizer algo que é ruim, largue e tente unificar a
+mente, isso se chama *samvara-sīla*:cuidado, atenção, unificar a mente.
+Vá diminuindo até chegar ao ponto em que é fácil de olhar. Quando sobrar
+somente corpo e mente, já acabou. Declarar possuir poderes psíquicos,
+quebrar o celibato (ambos são ofensas à regra monástica), isso está
+longe, mas acontece bem aqui, temos que praticar bem aqui. É fácil ver,
+temos que verificar a regra monástica bem aqui. Temos que treinar, pois
+esse treinamento é a nossa prática. Não precisa olhar isso ou aquilo:
+veja que nossa mente sofre e será capaz de largar esse sofrimento. Veja
+a mente se apegando a desejo, raiva e ignorância, pouco a pouco. Não
+precisa ver *garudās, nāgas, devatas, brahmas* (diversas classes de
+seres celestiais), pratique bem aqui, não precisa olhar para essas
+coisas, já é suficiente olhar para sua própria mente. O Buda queria que
+víssemos isso, soubéssemos isso de acordo com a verdade, nada mais.
+
+[^1]: Se o discípulo se ausenta sob permissão do professor, não é
+    necessário pedir tutela novamente, pois esta ainda está vigente.
+
+[^2]: A regra monástica sugere um período de tutela de cinco anos, mas
+    esse período pode ser estendido caso o professor entenda que o aluno
+    ainda não é maduro o suficiente para cuidar de si mesmo.
+
+[^3]: Esse é um aspecto do treinamento frequentemente enfatizado pelo
+    Buda. Em *páli*: “hiri” e “ottappa.”
+
+[^4]: De acordo com as escrituras, um sotāppana alcança iluminação em no
+    máximo 7 vidas.
+
+[^5]: Na Tailândia rural era comum o uso de argolas no nariz para domar
+    búfalos.
+
+[^6]: Na Tailândia é comum o uso da palavra “Buddho” como mantra para
+    ajudar a desenvolver samādhi.
+
+[^7]: Sutta Nipata 5.15 (Mogharaja-manava-puccha)
+
+[^8]: Trocadilho entre as palavras “somut” (สมุด) e “vimut” (วิมุต), pode ser
+    interpretado como “o incondicionado no que é condicionado.”
+
+[^9]: Os cinco khandhas (o quinto sendo “consciência”).
+

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="DarmaDaFloresta" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <!-- ISBN -->
+    <dc:identifier id="DarmaDaFloresta" opf:scheme="ISBN">urn:isbn:978-1-78432-028-7</dc:identifier>
+    <!-- UUID generator: http://www.famkruithof.net/uuid/uuidgen -->
+    
+
+    <dc:title>Darma da Floresta</dc:title>
+    
+    <dc:rights></dc:rights>
+    
+
+    <!-- BISAC Subject Headings List: https://www.bisg.org/bisac-subject-codes -->
+    <dc:subject>RELIGION / Buddhism / Theravada</dc:subject>
+
+    <dc:creator opf:file-as="Authors, Various" opf:role="aut">Various Authors</dc:creator>
+
+    <dc:source>http://fsbooks.org</dc:source>
+
+    <!-- List of contributors
+
+         See: MARC Code List for Relators: http://www.loc.gov/marc/relators/relaterm.html
+
+         Examples:
+
+         * Editor [edt]
+           Use for a person or organization who prepares for publication a work not primarily his/her own,
+           such as by elucidating text, adding introductory or other critical matter, or technically directing
+           an editorial staff.
+
+         * Cover designer [cov]
+           Use for a person or organization responsible for the graphic design of a book cover,
+           album cover, slipcase, box, container, etc. For a person or organization responsible
+           for the graphic design of an entire book, use Book designer; for book jackets, use Bookjacket designer.
+
+         * Translator [trl]
+           Use for a person or organization who renders a text from one language into another, or from an older
+           form of a language into the modern form.
+
+         -->
+
+    
+    
+    
+    
+    <dc:contributor opf:file-as="Mudito, Ajahn" opf:role="trl">Ajahn Mudito</dc:contributor>
+    
+    
+
+    <dc:publisher>Amaravati Publications</dc:publisher>
+    <dc:date opf:event="publication">2015-10-25</dc:date>
+
+    <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
+    <dc:language>en</dc:language>
+
+    <meta name="cover" content="cover-image" />
+
+  </metadata>
+
+  <!-- MANIFEST (mandatory)
+       List of all the resources of the book (XHTML, CSS, images,…).
+       The order of item elements in the manifest is NOT significant.
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.3 
+  -->
+
+  <manifest>
+    
+    <item href="Fonts/sourcesanspro-light.ttf" id="fonts-sourcesanspro-light-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/sourcesanspro-bold.ttf" id="fonts-sourcesanspro-bold-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/sourcesanspro-lightitalic.ttf" id="fonts-sourcesanspro-lightitalic-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/sourcesanspro-italic.ttf" id="fonts-sourcesanspro-italic-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/sourcesanspro-regular.ttf" id="fonts-sourcesanspro-regular-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Fonts/existence-light.ttf" id="fonts-existence-light-ttf" media-type="application/x-font-ttf" />
+    
+    <item href="Styles/style-mobi-kf8.css" id="styles-style-mobi-kf8-css" media-type="text/css" />
+    
+    <item href="Styles/style-mobi.css" id="styles-style-mobi-css" media-type="text/css" />
+    
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    
+    <item href="Text/duas-pontas-da-mesma-cobra.xhtml" id="chapter_duas-pontas-da-mesma-cobra" media-type="application/xhtml+xml" />
+    
+    <item href="Text/translators-note.xhtml" id="chapter_nota-do-tradutor" media-type="application/xhtml+xml" />
+    
+    <item href="Text/preface.xhtml" id="chapter_pref-cio" media-type="application/xhtml+xml" />
+    
+    <item href="Text/budismo-estilo-theravada.xhtml" id="chapter_budismo-estilo-theravada" media-type="application/xhtml+xml" />
+    
+    <item href="Text/os-cinco-obstaculos.xhtml" id="chapter_os-cinco-obst-culos" media-type="application/xhtml+xml" />
+    
+    <item href="Text/pratica-correta.xhtml" id="chapter_pr-tica-correta" media-type="application/xhtml+xml" />
+    
+    <item href="Text/para-quem-conhece.xhtml" id="chapter_para-quem-conhece-o-darma-n-o-h-brigas" media-type="application/xhtml+xml" />
+    
+    <item href="Text/glossary.xhtml" id="chapter_gloss-rio" media-type="application/xhtml+xml" />
+    
+    <item href="Text/conversa-com-um-doutor.xhtml" id="chapter_conversa-com-um-doutor" media-type="application/xhtml+xml" />
+    
+    <item href="Text/ajahn-jayasaro-quote.xhtml" id="chapter_ajahn-jayas-ro" media-type="application/xhtml+xml" />
+    
+    <item href="Text/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
+    
+    <item href="Text/nascimento-e-renascimento.xhtml" id="chapter_nascimento-e-renascimento" media-type="application/xhtml+xml" />
+    
+    <item href="Text/mudando-de-comportamento.xhtml" id="chapter_mudando-de-comportamento" media-type="application/xhtml+xml" />
+    
+    <item href="Text/copyright.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
+    
+    <item href="Text/ajahn-anan-quote.xhtml" id="chapter_ajahn-anan" media-type="application/xhtml+xml" />
+    
+    <item href="Text/ajahn-sumedho-quote.xhtml" id="chapter_ajahn-sumedho" media-type="application/xhtml+xml" />
+    
+    <item href="Text/gratidao-a-natureza.xhtml" id="chapter_gratid-o-natureza" media-type="application/xhtml+xml" />
+    
+    <item href="Text/ajahn-tan-quote.xhtml" id="chapter_ajahn-tan" media-type="application/xhtml+xml" />
+    
+    <item href="Text/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
+    
+    <item href="Text/ajahn-chah-quote.xhtml" id="chapter_ajahn-chah" media-type="application/xhtml+xml" />
+    
+    <item href="Text/perguntas.xhtml" id="chapter_perguntas-de-praticantes-brasileiros" media-type="application/xhtml+xml" />
+    
+    <item href="Text/a-mente-controlada.xhtml" id="chapter_a-mente-controlada-por-ilus-es" media-type="application/xhtml+xml" />
+    
+    <item href="Text/conselho-para-estudantes.xhtml" id="chapter_conselho-para-estudantes-e-professores-de-darma" media-type="application/xhtml+xml" />
+    
+    <item href="Text/ajahn-piak-quote.xhtml" id="chapter_ajahn-piak" media-type="application/xhtml+xml" />
+    
+    <item href="Text/ajahn-liem-quote.xhtml" id="chapter_ajahn-liem" media-type="application/xhtml+xml" />
+    
+    <item href="Text/sati-samadhi-panna.xhtml" id="chapter_sati-sam-dhi-pa-" media-type="application/xhtml+xml" />
+    
+    <item href="Text/problemas-do-mundo.xhtml" id="chapter_problemas-do-mundo" media-type="application/xhtml+xml" />
+    
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    
+    <item href="Images/abm-pubs-logo_ebook.png" id="images-abm-pubs-logo-ebook-png" media-type="image/png" />
+    
+    <item href="Images/CCLogo.jpg" id="images-cclogo-jpg" media-type="image/jpeg" />
+    
+  </manifest>
+
+  <!-- SPINE (mandatory)
+
+       The spine element defines the default reading order of the content. It doesn't list every file in the manifest, 
+       just the reading order.
+
+       The value of the idref tag in the spine has to match the ID tag for that entry in the manifest.
+
+       For example, if you have the following reference in your manifest:
+
+          <item id="chapter-1" href="chapter01.xhtml" media-type="application/xhtml+xml" />
+
+       your spine entry would be:
+
+          <itemref idref="chapter-1" />
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.4
+
+       -->
+  <spine toc="ncx">
+    
+    <itemref idref="chapter_pref-cio"  />
+    
+    <itemref idref="chapter_nota-do-tradutor"  />
+    
+    <itemref idref="chapter_title-page"  />
+    
+    <itemref idref="chapter_contents"  />
+    
+    <itemref idref="chapter_ajahn-chah"  />
+    
+    <itemref idref="chapter_conversa-com-um-doutor"  />
+    
+    <itemref idref="chapter_budismo-estilo-theravada"  />
+    
+    <itemref idref="chapter_para-quem-conhece-o-darma-n-o-h-brigas"  />
+    
+    <itemref idref="chapter_duas-pontas-da-mesma-cobra"  />
+    
+    <itemref idref="chapter_problemas-do-mundo"  />
+    
+    <itemref idref="chapter_mudando-de-comportamento"  />
+    
+    <itemref idref="chapter_pr-tica-correta"  />
+    
+    <itemref idref="chapter_nascimento-e-renascimento"  />
+    
+    <itemref idref="chapter_ajahn-liem"  />
+    
+    <itemref idref="chapter_gratid-o-natureza"  />
+    
+    <itemref idref="chapter_ajahn-sumedho"  />
+    
+    <itemref idref="chapter_os-cinco-obst-culos"  />
+    
+    <itemref idref="chapter_ajahn-piak"  />
+    
+    <itemref idref="chapter_perguntas-de-praticantes-brasileiros"  />
+    
+    <itemref idref="chapter_ajahn-anan"  />
+    
+    <itemref idref="chapter_sati-sam-dhi-pa-"  />
+    
+    <itemref idref="chapter_ajahn-tan"  />
+    
+    <itemref idref="chapter_a-mente-controlada-por-ilus-es"  />
+    
+    <itemref idref="chapter_ajahn-jayas-ro"  />
+    
+    <itemref idref="chapter_conselho-para-estudantes-e-professores-de-darma"  />
+    
+    <itemref idref="chapter_gloss-rio"  />
+    
+    <itemref idref="chapter_copyright"  />
+    
+  </spine>
+
+  <!-- GUIDE (optional, recommended by Apple)
+
+        The guide lets you specify the role of the book's files.
+
+        Available tags: cover, title-page, toc, index, glossary, acknowledgements, bibliography,
+        colophon, copyright-page, dedication, epigraph, foreword, loi (list of illustrations),
+        lot (list of tables), notes, preface, and text.
+
+        http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.6
+
+       -->
+  <guide>
+    
+    <reference href="Text/preface.xhtml" title="Prefácio" type="preface" />
+    
+    
+    
+    <reference href="Text/titlepage.xhtml" title="Title Page" type="text" />
+    
+    <reference href="Text/toc.xhtml" title="Contents" type="toc" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <reference href="Text/copyright.xhtml" title="Copyright" type="copyright-page" />
+    
+  </guide>
+
+</package>
