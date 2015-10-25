@@ -2,6 +2,7 @@
   final,
   pagePreset=largepage,
   babelLanguage=portuguese,
+  webversion,
 ]{anecdote}
 
 \usepackage{mylayout}
@@ -23,6 +24,12 @@
 % \hyphenation{}
 
 \begin{document}
+
+\ifwebversion
+\webcover{%
+\includegraphics[height={\paperheight + 5pt}]{./webcover.pdf}%
+}%
+\fi
 
 \frontmatter
 
