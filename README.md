@@ -17,5 +17,7 @@ ISBN for ebooks: `978-1-78432-028-7`
 
 See the final files in the `publish/final/` folder.
 
+Github: <https://github.com/profound-labs/darma-da-floresta>
+
 Produced with [LaTeX](http://latex-project.org/) and [Prophecy](https://github.com/profound-labs/prophecy).
 
